@@ -24,21 +24,21 @@ public class Author {
     }
 
     /**
-     * @return the    name
+     * @return the name
      */
     public String getName() {
         return this.name;
     }
 
     /**
-     * @return the    email
+     * @return the email
      */
     public String getEmail() {
         return this.email;
     }
 
     /**
-     * @return the    address
+     * @return the address
      */
     public String getAddress() {
         return this.address;
