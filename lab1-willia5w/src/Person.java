@@ -5,42 +5,33 @@
  *
  */
 
-public class Author {
-    private String name;
-    private String email;
-    private String address;
+public class Person {
+    private String firstName;
+    private String lastName;
 
     /**
      * Creates	a	new	author	given	the	author's	name,	email	and	address	as	strings.
      *
-     * @param    name    the	author's	name
-     * @param    email    the	author's	email	address
-     * @param    address    the	authors	physical	address
+     * @param    firstName    the	author's	name
+     * @param    lastName    the	author's	email	address
      */
-    public Author(String name, String email, String address) {
-        this.name = name;
-        this.email = email;
-        this.address = address;
+    public Person(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
     }
 
     /**
-     * @return the    name
+     * @return the first name
      */
-    public String getName() {
-        return this.name;
+    public String getFirstName() {
+        return this.firstName;
     }
 
     /**
-     * @return the    email
+     * @return the last name
      */
-    public String getEmail() {
-        return this.email;
+    public String getLastName() {
+        return this.lastName;
     }
 
-    /**
-     * @return the    address
-     */
-    public String getAddress() {
-        return this.address;
-    }
     }
