@@ -1,27 +1,34 @@
 import static org.junit.Assert.*;
 
-import junit.framework.TestCase;
+import org.junit.Before;
+import org.junit.Test;
 
 public class AuthorTest {
     private Author author;
+    private Person person;
+    private Email email;
+    private Address address;
 
-    @org.junit.Before
+    @Before
     public void setUp() throws Exception	{
-        author = new Author("Dan","dmwinnj","Seattle");
+        person = new Person("Dan", "Williams");
+        email = new Email("dmwinnj", "aol.com");
+        address = new Address("1287", "Westlake Ave",
+                "Seattle", "WA", "98109",
+                "USA");
+
+        author = new Author(person, email, address);
     }
-    @org.junit.Test
+    @Test
     public void getName() {
-        assertEquals("Dan", author.getName());
-//        TestCase.fail("Not	yet	implemented");
+        assertEquals("Dan Williams", author.getName());
     }
-    @org.junit.Test
+    @Test
     public void getEmail() throws Exception	{
-        assertEquals("dmwinnj", author.getEmail());
-//        TestCase.fail("Not	yet	implemented");
+        assertEquals("dmwinnj@aol.com", author.getEmail());
     }
-    @org.junit.Test
+    @Test
     public void getAddress() throws Exception	{
-        assertEquals("Seattle", author.getAddress());
-//        TestCase.fail("Not	yet	implemented");
+        assertEquals("1287 Westlake Ave Seattle WA 98109 USA", author.getAddress());
     }
 }
