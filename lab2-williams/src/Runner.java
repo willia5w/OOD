@@ -1,5 +1,3 @@
-package LabAssignment1;
-
 /**
 * Class Runner contains information about a runner, including athlete's name,
 their best 5K time, best marathon time, and favorite event type.
