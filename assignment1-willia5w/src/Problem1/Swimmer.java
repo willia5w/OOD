@@ -19,6 +19,7 @@ public class Swimmer {
      * @param firstName             - swimmer's first name
      * @param lastName              - swimmer's last name
      * @param swimTimes             - swimmer's swim times
+     *
      **/
     public Swimmer(String firstName, String lastName, SwimTimes swimTimes) {
         this.firstName = firstName;
@@ -49,4 +50,17 @@ public class Swimmer {
     public SwimTimes getSwimTimes() {
         return this.swimTimes;
     }
+
+    /**
+     * Sets the swimmer's swim times
+     * @param bestBackstroke50mTime  - Best backstroke
+     * @param bestBreaststroke50mTime  - Best breaststroke
+     * @param bestButterfly50mTime  - Best butterfly
+     * @param bestFreestyle50mTime  - Best freestyle
+     *
+     **/
+    public SwimTimes setSwimTimes(Double bestBackstroke50mTime, Double bestBreaststroke50mTime,
+        Double bestButterfly50mTime, Double bestFreestyle50mTime) {
+        return this.swimTimes = new SwimTimes(bestBackstroke50mTime, bestBreaststroke50mTime,
+            bestButterfly50mTime, bestFreestyle50mTime); }
 }

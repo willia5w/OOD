@@ -3,7 +3,6 @@ package Problem1;
 import static org.junit.Assert.*;
 
 public class SwimmerTest {
-
   private Swimmer swimmer;
   private SwimTimes swimTimes;
 
@@ -26,6 +25,12 @@ public class SwimmerTest {
 
   @org.junit.Test
   public void getSwimTimes() {
-    assertEquals(swimmer.swimTimes, swimmer.getSwimTimes());
+    assertEquals(swimTimes, swimmer.getSwimTimes());
+  }
+
+  @org.junit.Test
+  public void setSwimTimes() {
+    assertEquals(swimTimes, swimmer.setSwimTimes(10.00,
+        20.00,30.00, 40.00));
   }
 }

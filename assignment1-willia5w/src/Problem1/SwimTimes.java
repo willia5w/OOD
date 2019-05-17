@@ -1,5 +1,11 @@
 package Problem1;
 
+/**
+ *
+ *
+ * Class Problem1.SwimTimes contains information about a swimmer's times.
+ * This class is used as a part of Problem 1.
+ **/
 public class SwimTimes {
     private Double bestBackstroke50mTime;
     private Double bestBreaststroke50mTime;
@@ -8,8 +14,8 @@ public class SwimTimes {
 
 
     /**
-     * Constructor that creates a new Problem1.Swimmer object with the
-     * specified first name, last name and best backstroke time.
+     * Constructor that creates a new Problem1.SwimmerTimes object with the
+     * specified times for swim styles.
      *
      * @param bestBackstroke50mTime - best 50m backstroke time
      * @param bestBreaststroke50mTime - best 50m breaststroke time
