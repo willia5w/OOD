@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4b0c527-767e-4e39-a024-a3a20759c286" name="Default Changelist" comment="Assignment 1" />
+    <list default="true" id="e4b0c527-767e-4e39-a024-a3a20759c286" name="Default Changelist" comment="Assignment 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem1/SwimTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem1/SwimTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem1/SwimTimesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem1/SwimTimesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem1/Swimmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem1/Swimmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem1/SwimmerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem1/SwimmerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem2/Bicyclist.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem2/Bicyclist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem2/BicyclistTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem2/BicyclistTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem2/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem2/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem2/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem2/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem3/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem3/AccountHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem3/AccountHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem3/AccountHolderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem3/AccountHolderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem3/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem3/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem3/Amount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem3/Amount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Problem3/AmountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Problem3/AmountTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,13 +29,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignment1/Problem1/Swimmer.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="11" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -287,7 +297,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="23" width="1440" height="877" extended-state="1" />
+    <frame x="11" y="23" width="1440" height="877" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18383405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -299,7 +309,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
