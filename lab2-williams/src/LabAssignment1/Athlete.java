@@ -1,3 +1,5 @@
+package LabAssignment1;
+
 /**
 * Class Athlete contains information about an athlete, including athlete's name,
 their height, weight and league.
@@ -9,7 +11,7 @@ public class Athlete {
   private String league;
   /**
   * Constructs a new athlete, based upon all of the provided input parameters.
-  * @param athletesName - object Name, containing athlete's first, middle and last
+  * @param athletesName - object LabAssignment1.Name, containing athlete's first, middle and last
  name
   * @param height - athlete's height, expressed as a Double in cm (e.g., 6'2'' is
  recorded as 187.96cm)
@@ -26,7 +28,7 @@ public class Athlete {
   }
  /**
  * Constructs a new athlete, based upon all of the provided input parameters.
- * @param athletesName - object Name, containing athlete's first, middle and last
+ * @param athletesName - object LabAssignment1.Name, containing athlete's first, middle and last
 name
  * @param height - athlete's height, expressed as a Double in cm (e.g., 6'2'' is
 recorded as 187.96cm)
@@ -42,7 +44,7 @@ recorded as 187.96cm)
     this.league = null;
   }
   /**
-   * Returns athlete's name as an object Name
+   * Returns athlete's name as an object LabAssignment1.Name
    */
   public Name getAthletesName() {
     return athletesName;

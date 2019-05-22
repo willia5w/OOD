@@ -1,3 +1,5 @@
+package LabAssignment1;
+
 /**
  *	Represents	an	Athlete's full name
  *

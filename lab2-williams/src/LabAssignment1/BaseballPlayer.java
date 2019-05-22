@@ -1,3 +1,5 @@
+package LabAssignment1;
+
 /**
  * Class BaseballPlayer contains information about a baseball player, including athlete's name,
  their team. batting average, and home runs.
