@@ -2,21 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7003c8a7-3f39-4046-b317-2bcf36673b58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem1/SwimTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem1/SwimTimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem1/SwimTimesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem1/SwimTimesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem1/Swimmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem1/Swimmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem1/SwimmerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem1/SwimmerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem2/Bicyclist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem2/Bicyclist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem2/BicyclistTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem2/BicyclistTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem2/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem2/Time.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem2/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem2/TimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem3/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem3/AccountHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem3/AccountHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem3/AccountHolderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem3/AccountHolderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem3/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem3/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem3/Amount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem3/Amount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/Problem3/AmountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1-willia5w/Assignment1/src/Problem3/AmountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/danielwilliams.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/Bathroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/LivingRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/SmartThermostat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/CardBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/CardOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/GiftCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/InvalidDepositException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/Meat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/NonPerishable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/Perishable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/dictionaries/danielwilliams.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2-willia5w.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2-willia5w.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,17 +40,144 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem1/Room.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem1/LivingRoom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem1/SmartThermostat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="633">
+              <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+              <folding>
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#776#777#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem2/Deposit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+              <folding>
+                <element signature="e#860#861#0" expanded="true" />
+                <element signature="e#1053#1054#0" expanded="true" />
+                <element signature="e#1234#1235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem2/Email.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem2/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem2/GiftCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem2/InvalidDepositException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/Problem1/Livingroom.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/AddressTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/Email.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/EmailTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/NameTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/Name.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/CardBalance.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/CardBalanceTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/GiftCard.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/InvalidDepositException.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/Address.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/Perishable.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/NonPerishable.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/Meat.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/IRoom.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/TempCheck.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/Room.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/Bathroom.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/Bedroom.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/LivingRoom.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/AccountTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/SmartThermostat.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/CardOwner.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/Deposit.java" />
       </list>
     </option>
   </component>
@@ -51,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -64,12 +207,44 @@
               <item name="assignment2-willia5w" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="assignment2-willia5w" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment2-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment2-willia5w" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment2-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment2-willia5w" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment2-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Problem1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -93,38 +268,278 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558138935399</updated>
+      <workItem from="1558566506822" duration="6170000" />
+      <workItem from="1558593946774" duration="203000" />
+      <workItem from="1558632337272" duration="23957000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="23" width="720" height="877" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24926254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30235988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Amount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/CardBalanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/NameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/EmailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="e#1146#1147#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1279#1280#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1483#1484#0" expanded="true" />
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1717#1718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Meat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/IRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/TempCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Perishable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="e#1384#1385#0" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1517#1518#0" expanded="true" />
+            <element signature="e#1546#1547#0" expanded="true" />
+            <element signature="e#1687#1688#0" expanded="true" />
+            <element signature="e#1721#1722#0" expanded="true" />
+            <element signature="e#1920#1921#0" expanded="true" />
+            <element signature="e#1953#1954#0" expanded="true" />
+            <element signature="e#2078#2079#0" expanded="true" />
+            <element signature="e#2104#2105#0" expanded="true" />
+            <element signature="e#2211#2212#0" expanded="true" />
+            <element signature="e#2242#2243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/Bathroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/Bedroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/CardBalance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/AddressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/LivingRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/SmartThermostat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding>
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/GiftCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/InvalidDepositException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Deposit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+          <folding>
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/AccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
