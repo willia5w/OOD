@@ -1,13 +1,13 @@
-package edu.neu.ccs.cs5004;
+package edu.neu.ccs.cs5004.shapes;
 
+import edu.neu.css.cs5004.shapes.Posn;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class PosnTest {
-    private Double x;
-    private Double y;
+    Posn posn;
 
     @Before
     public void setUp() throws Exception {
@@ -16,6 +16,7 @@ public class PosnTest {
 
     @Test
     public void distToOrigin() {
+        assertEquals(7.8, posn.distToOrigin(), 0.1);
     }
 
     @Test

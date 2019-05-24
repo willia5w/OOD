@@ -6,27 +6,23 @@ package Problem3;
  *
  */
 public abstract class Perishable extends NonPerishable{
-  private String type;
-  private Double pricePerUnit;
-  private Integer quantityAvailable;
   private static Integer maxOrderQuantity = 100;
   private static Integer expirationTolerance = 10;
   private Integer orderDate;
   private Integer expirationDate;
 
   /**
-   * Creates a Perishable food object given it's type, price per unit,
-   * and available quantity
+   * Creates a NonPerishable food object given it's type, price per unit,
+   * available quantity, order date, and expiration date
    *
    * @param type the type of the perishable food item
    * @param pricePerUnit the price per unit of the perishable food item
    * @param quantityAvailable the available quantity of the perishable food item
+   * @param orderDate the order date of the perishable food item
+   * @param expirationDate the expiration date of the perishable food item
    */
-  public Perishable(String type, Double pricePerUnit, Integer quantityAvailable,
-                    Integer orderDate, Integer expirationDate) {
-    this.type = type;
-    this.pricePerUnit = pricePerUnit;
-    this.quantityAvailable = quantityAvailable;
+  public Perishable(String type, Double pricePerUnit, Integer quantityAvailable, Integer orderDate, Integer expirationDate) {
+    super(type, pricePerUnit, quantityAvailable);
     this.orderDate = orderDate;
     this.expirationDate = expirationDate;
   }
@@ -79,11 +75,13 @@ public abstract class Perishable extends NonPerishable{
     return expirationDate;
   }
 
-  public Boolean checkExpiration(Integer orderDate, Integer expirationDate) {
-    try {
-      if (expirationDate - orderDate >= expirationTolerance)
+  public Boolean checkExpiration(Integer orderDate, Integer expirationDate) throws Exception {
+    if (expirationDate - orderDate >= expirationTolerance) {
+      throw new Exception("Expiring too soon");
+    } else {
+      return true;
     }
-    check {
-
-    }
+  }
 }
+
+

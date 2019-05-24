@@ -1,4 +1,4 @@
-package edu.neu.ccs.cs5004;
+package edu.neu.ccs.cs5004.shapes;
 
 import org.junit.Before;
 import org.junit.Test;

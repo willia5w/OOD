@@ -5,9 +5,8 @@ package Problem1;
  * It is an extension of the Room abstract class with concrete temperature limits.
  */
 class LivingRoom extends Room {
-    private Integer currentTemp;
-    private static Integer minTemp = 60;
-    private static Integer maxTemp = 72;
+    private static Integer min = 60;
+    private static Integer max = 72;
 
     /**
      * Constructs a Bathroom object and initializes it with its max and min temperature
@@ -16,33 +15,33 @@ class LivingRoom extends Room {
      * @param maxTemp the max temp of the bathroom
      */
     public LivingRoom(Integer currentTemp, Integer minTemp, Integer maxTemp) {
-        this.currentTemp = currentTemp;
-        this.minTemp = minTemp;
-        this.maxTemp = maxTemp;
+        super(currentTemp, minTemp, maxTemp);
+        this.minTemp = min;
+        this.maxTemp = max;
     }
 
     /**
-     * Get the current temp of the bathroom
+     * Get the current temp of the living room
      *
-     * @return the current temp of the bathroom
+     * @return the current temp of the living room
      */
     public Integer getCurrentTemp() {
         return currentTemp;
     }
 
     /**
-     * Get the min temp of the bathroom
+     * Get the min temp of the living room
      *
-     * @return the min temp of the bathroom
+     * @return the min temp of the living room
      */
     public Integer getMinTemp() {
         return minTemp;
     }
 
     /**
-     * Get the max temp of the bathroom
+     * Get the max temp of the living room
      *
-     * @return the max temp of the bathroom
+     * @return the max temp of the living room
      */
     public Integer getMaxTemp() {
         return maxTemp;
@@ -52,7 +51,7 @@ class LivingRoom extends Room {
      * Updates current temperature of room if desired temperature is valid
      *
      * @param temperature User's desired living room temperature
-     * @return A new Bedroom object will be returned with current temperature updated if valid
+     * @return A new LivingRoom object will be returned with current temperature updated if valid
      */
     public LivingRoom validateNewTemp(Integer temperature) throws Exception {
         if (temperature < minTemp || temperature > maxTemp) {

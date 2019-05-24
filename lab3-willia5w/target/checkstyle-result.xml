@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/lab3-willia5w/src/main/java/edu/neu/css/cs5004/shapes/AbstractShape.java">
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/lab3-willia5w/src/main/java/edu/neu/css/cs5004/shapes/Circle.java">
+<error line="8" column="18" severity="warning" message="Member name &apos;x&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="9" column="18" severity="warning" message="Member name &apos;y&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="19" column="24" severity="warning" message="Parameter name &apos;x&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="19" column="34" severity="warning" message="Parameter name &apos;y&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="46" column="77" severity="warning" message="&apos;*&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/lab3-willia5w/src/main/java/edu/neu/css/cs5004/shapes/Rectangle.java">
+<error line="8" severity="warning" message="&apos;,&apos; should be separated from previous statement." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="8" column="3" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="10" severity="warning" message="First sentence of Javadoc is incomplete (period is missing) or not present." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="19" column="27" severity="warning" message="Parameter name &apos;x&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="19" column="37" severity="warning" message="Parameter name &apos;y&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="40" column="43" severity="warning" message="&apos;*&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="45" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="46" column="80" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/lab3-willia5w/src/main/java/edu/neu/css/cs5004/shapes/Posn.java">
+<error line="8" column="18" severity="warning" message="Member name &apos;x&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="9" column="18" severity="warning" message="Member name &apos;y&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="11" severity="warning" message="First sentence of Javadoc is incomplete (period is missing) or not present." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="17" column="22" severity="warning" message="Parameter name &apos;x&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="17" column="32" severity="warning" message="Parameter name &apos;y&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="22" severity="warning" message="First sentence of Javadoc is incomplete (period is missing) or not present." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="32" severity="warning" message="First sentence of Javadoc is incomplete (period is missing) or not present." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="41" severity="warning" message="First sentence of Javadoc is incomplete (period is missing) or not present." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/lab3-willia5w/src/main/java/edu/neu/css/cs5004/shapes/Shape.java">
+<error line="28" severity="warning" message="First sentence of Javadoc is incomplete (period is missing) or not present." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+</file>
+</checkstyle>

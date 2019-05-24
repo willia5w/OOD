@@ -6,9 +6,9 @@ package Problem3;
  *
  */
 public abstract class NonPerishable {
-  private String type;
-  private Double pricePerUnit;
-  private Integer quantityAvailable;
+  public String type;
+  public Double pricePerUnit;
+  public Integer quantityAvailable;
   private static Integer maxOrderQuantity = 250;
 
   /**
@@ -50,8 +50,8 @@ public abstract class NonPerishable {
   }
 
   /**
-   * Get maximium allowed quantity of food item available for order
-   * @return maximium allowed quantity of food item available for order
+   * Get maximum allowed quantity of food item available for order
+   * @return maximum allowed quantity of food item available for order
    */
   public static Integer getMaxOrderQuantity() {
     return maxOrderQuantity;

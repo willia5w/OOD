@@ -28,4 +28,3 @@ public class NameTest {
         assertEquals("Dan Williams", name.getFullName());
     }
 }
-}

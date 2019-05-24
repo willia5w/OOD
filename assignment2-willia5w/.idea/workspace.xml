@@ -2,36 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7003c8a7-3f39-4046-b317-2bcf36673b58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/danielwilliams.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem1/Bathroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem1/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem1/LivingRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem1/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem1/SmartThermostat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem2/CardBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem2/CardOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem2/Deposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem2/GiftCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem2/InvalidDepositException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/Meat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/NonPerishable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/Perishable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/dictionaries/danielwilliams.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/BathroomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/BedroomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/LivingRoomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/RoomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1/SmartThermostatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/CardOwnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/GiftCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/FoodOrderingSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/NonPerishableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/Pasta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/PerishableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/Rice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem3/Vegetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment2-willia5w.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2-willia5w.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem1/Bathroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/Bathroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem1/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem1/LivingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/LivingRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem1/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem2/CardBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2/CardBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem2/CardOwner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2/CardOwner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem2/GiftCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2/GiftCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem2/InvalidDepositException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem2/NameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2/NameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem3/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem3/NonPerishable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/NonPerishable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem3/Perishable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Perishable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,32 +52,224 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem1/Room.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem3/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem1/LivingRoom.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem1/SmartThermostat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+            <state relative-caret-position="315">
+              <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="96" />
               <folding>
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#860#861#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+                <element signature="e#1001#1002#0" expanded="true" />
+                <element signature="e#1022#1023#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#1073#1074#0" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1152#1153#0" expanded="true" />
+                <element signature="e#1193#1194#0" expanded="true" />
+                <element signature="e#1225#1226#0" expanded="true" />
+                <element signature="e#1037#1038#0" expanded="true" />
+                <element signature="e#1098#1099#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystemTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem3/Perishable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem3/PerishableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwnerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+              <folding>
+                <element signature="e#1385#1386#0" expanded="true" />
+                <element signature="e#1425#1426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/Problem1">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>Problem1</OriginalElement>
+              <nodes>
+                <node x="782.7185064935065" y="479.0">Problem1.BathroomTest</node>
+                <node x="230.0" y="479.0">Problem1.LivingRoomTest</node>
+                <node x="135.19147727272713" y="219.0">Problem1.LivingRoom</node>
+                <node x="0.0" y="490.0">Problem1.RoomTest</node>
+                <node x="458.71850649350654" y="468.0">Problem1.SmartThermostat</node>
+                <node x="997.7185064935065" y="479.0">Problem1.BedroomTest</node>
+                <node x="933.7807629870128" y="219.0">Problem1.Bedroom</node>
+                <node x="465.46850649350654" y="0.0">Problem1.Room</node>
+                <node x="409.6247564935063" y="729.0">Problem1.SmartThermostatTest</node>
+                <node x="499.46850649350654" y="219.0">Problem1.Bathroom</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="Problem1.SmartThermostat" target="Problem1.LivingRoom">
+                  <point x="-75.75" y="-90.5" />
+                  <point x="534.4685064935065" y="418.0" />
+                  <point x="399.5664772727271" y="418.0" />
+                  <point x="123.375" y="79.5" />
+                </edge>
+                <edge source="Problem1.LivingRoom" target="Problem1.Room">
+                  <point x="-70.5" y="-79.5" />
+                  <point x="205.69147727272713" y="189.0" />
+                  <point x="509.1827922077923" y="189.0" />
+                  <point x="-58.28571428571422" y="79.5" />
+                </edge>
+                <edge source="Problem1.SmartThermostatTest" target="Problem1.Bathroom">
+                  <point x="-23.909090909090878" y="-112.5" />
+                  <point x="517.2156655844154" y="669.0" />
+                  <point x="448.21850649350654" y="669.0" />
+                  <point x="448.21850649350654" y="448.0" />
+                  <point x="557.7542207792209" y="448.0" />
+                  <point x="-77.71428571428567" y="79.5" />
+                </edge>
+                <edge source="Problem1.SmartThermostatTest" target="Problem1.Bedroom">
+                  <point x="119.5454545454545" y="-112.5" />
+                  <point x="660.6702110389608" y="709.0" />
+                  <point x="1213.2185064935065" y="709.0" />
+                  <point x="1213.2185064935065" y="428.0" />
+                  <point x="1181.7093344155842" y="428.0" />
+                  <point x="114.42857142857133" y="79.5" />
+                </edge>
+                <edge source="Problem1.SmartThermostat" target="Problem1.Bedroom">
+                  <point x="126.25" y="-90.5" />
+                  <point x="736.4685064935065" y="438.0" />
+                  <point x="990.9950487012986" y="438.0" />
+                  <point x="-76.28571428571422" y="79.5" />
+                </edge>
+                <edge source="Problem1.RoomTest" target="Problem1.LivingRoom">
+                  <point x="46.75" y="-68.5" />
+                  <point x="140.25" y="448.0" />
+                  <point x="152.81647727272713" y="448.0" />
+                  <point x="-123.375" y="79.5" />
+                </edge>
+                <edge source="Problem1.RoomTest" target="Problem1.Room">
+                  <point x="-46.75" y="-68.5" />
+                  <point x="46.75" y="179.0" />
+                  <point x="480.0399350649351" y="179.0" />
+                  <point x="-87.42857142857144" y="79.5" />
+                </edge>
+                <edge source="Problem1.SmartThermostat" target="Problem1.Bathroom">
+                  <point x="-25.25" y="-90.5" />
+                  <point x="584.9685064935065" y="448.0" />
+                  <point x="596.6113636363636" y="448.0" />
+                  <point x="-38.85714285714289" y="79.5" />
+                </edge>
+                <edge source="Problem1.SmartThermostatTest" target="Problem1.LivingRoom">
+                  <point x="-119.5454545454545" y="-112.5" />
+                  <point x="421.5793019480518" y="709.0" />
+                  <point x="197.5" y="709.0" />
+                  <point x="197.5" y="448.0" />
+                  <point x="188.06647727272713" y="448.0" />
+                  <point x="-88.125" y="79.5" />
+                </edge>
+                <edge source="Problem1.SmartThermostatTest" target="Problem1.SmartThermostat">
+                  <point x="0.0" y="-112.5" />
+                  <point x="541.1247564935063" y="709.0" />
+                  <point x="534.4685064935065" y="709.0" />
+                  <point x="-75.75" y="90.5" />
+                </edge>
+                <edge source="Problem1.BedroomTest" target="Problem1.Bedroom">
+                  <point x="48.5" y="-79.5" />
+                  <point x="1143.2185064935065" y="448.0" />
+                  <point x="1105.42362012987" y="448.0" />
+                  <point x="38.14285714285711" y="79.5" />
+                </edge>
+                <edge source="Problem1.LivingRoomTest" target="Problem1.LivingRoom">
+                  <point x="48.5" y="-79.5" />
+                  <point x="375.5" y="448.0" />
+                  <point x="329.0664772727271" y="448.0" />
+                  <point x="52.875" y="79.5" />
+                </edge>
+                <edge source="Problem1.BathroomTest" target="Problem1.Bathroom">
+                  <point x="48.5" y="-79.5" />
+                  <point x="928.2185064935065" y="398.0" />
+                  <point x="752.0399350649351" y="398.0" />
+                  <point x="116.57142857142856" y="79.5" />
+                </edge>
+                <edge source="Problem1.Bedroom" target="Problem1.Room">
+                  <point x="66.75" y="-79.5" />
+                  <point x="1134.0307629870128" y="179.0" />
+                  <point x="654.897077922078" y="179.0" />
+                  <point x="87.42857142857144" y="79.5" />
+                </edge>
+                <edge source="Problem1.Bathroom" target="Problem1.Room">
+                  <point x="68.0" y="-79.5" />
+                  <point x="703.4685064935065" y="199.0" />
+                  <point x="596.6113636363636" y="199.0" />
+                  <point x="29.14285714285711" y="79.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="669.0" y="570.5" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -82,58 +277,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem2/Deposit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
-              <folding>
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#1053#1054#0" expanded="true" />
-                <element signature="e#1234#1235#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem2/Email.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problem2/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem2/GiftCard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem2/InvalidDepositException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="270">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -144,6 +289,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -157,34 +303,48 @@
         <option value="$PROJECT_DIR$/src/Problem2/AddressTest.java" />
         <option value="$PROJECT_DIR$/src/Problem2/Email.java" />
         <option value="$PROJECT_DIR$/src/Problem2/EmailTest.java" />
-        <option value="$PROJECT_DIR$/src/Problem2/NameTest.java" />
         <option value="$PROJECT_DIR$/src/Problem2/Name.java" />
-        <option value="$PROJECT_DIR$/src/Problem2/CardBalance.java" />
         <option value="$PROJECT_DIR$/src/Problem2/CardBalanceTest.java" />
-        <option value="$PROJECT_DIR$/src/Problem2/GiftCard.java" />
         <option value="$PROJECT_DIR$/src/Problem2/InvalidDepositException.java" />
         <option value="$PROJECT_DIR$/src/Problem2/Address.java" />
-        <option value="$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java" />
-        <option value="$PROJECT_DIR$/src/Problem3/Perishable.java" />
-        <option value="$PROJECT_DIR$/src/Problem3/NonPerishable.java" />
-        <option value="$PROJECT_DIR$/src/Problem3/Meat.java" />
         <option value="$PROJECT_DIR$/src/Problem1/IRoom.java" />
         <option value="$PROJECT_DIR$/src/Problem1/TempCheck.java" />
-        <option value="$PROJECT_DIR$/src/Problem1/Room.java" />
-        <option value="$PROJECT_DIR$/src/Problem1/Bathroom.java" />
-        <option value="$PROJECT_DIR$/src/Problem1/Bedroom.java" />
-        <option value="$PROJECT_DIR$/src/Problem1/LivingRoom.java" />
         <option value="$PROJECT_DIR$/src/Problem2/AccountTest.java" />
         <option value="$PROJECT_DIR$/src/Problem1/SmartThermostat.java" />
-        <option value="$PROJECT_DIR$/src/Problem2/CardOwner.java" />
         <option value="$PROJECT_DIR$/src/Problem2/Deposit.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/CardBalance.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/NameTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/NonPerishable.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/Perishable.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/BathroomTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/LivingRoomTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/BedroomTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/Bedroom.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/Bathroom.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/SmartThermostatTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/LivingRoom.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/Room.java" />
+        <option value="$PROJECT_DIR$/src/Problem1/RoomTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/GiftCard.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/GiftCardTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/CardOwner.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/Vegetable.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/Rice.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/Meat.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/Pasta.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/FoodOrderingSystemTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/NonPerishableTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem3/PerishableTest.java" />
+        <option value="$PROJECT_DIR$/src/Problem2/CardOwnerTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="720" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="10" />
     <option name="y" value="23" />
-    <option name="width" value="720" />
+    <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -239,10 +399,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Problem3" />
+      <recent name="Problem2" />
+      <recent name="Problem1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Problem3" />
       <recent name="Problem1" />
     </key>
   </component>
@@ -258,6 +430,92 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.GiftCardTest">
+    <configuration name="AddressTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment2-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Problem2" />
+      <option name="MAIN_CLASS_NAME" value="Problem2.AddressTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BathroomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment2-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Problem1" />
+      <option name="MAIN_CLASS_NAME" value="Problem1.BathroomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiftCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment2-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Problem2" />
+      <option name="MAIN_CLASS_NAME" value="Problem2.GiftCardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LivingRoomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment2-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Problem1" />
+      <option name="MAIN_CLASS_NAME" value="Problem1.LivingRoomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment2-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Problem1" />
+      <option name="MAIN_CLASS_NAME" value="Problem1.RoomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GiftCardTest" />
+        <item itemvalue="JUnit.AddressTest" />
+        <item itemvalue="JUnit.LivingRoomTest" />
+        <item itemvalue="JUnit.RoomTest" />
+        <item itemvalue="JUnit.BathroomTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -270,17 +528,50 @@
       <updated>1558138935399</updated>
       <workItem from="1558566506822" duration="6170000" />
       <workItem from="1558593946774" duration="203000" />
-      <workItem from="1558632337272" duration="23957000" />
+      <workItem from="1558632337272" duration="36735000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="LivingRoomTest - 2019.05.23 at 21h 50m 36s.xml">
+      <configuration name="LivingRoomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BedroomTest - 2019.05.23 at 21h 51m 58s.xml">
+      <configuration name="BedroomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BathroomTest - 2019.05.23 at 22h 03m 01s.xml">
+      <configuration name="BathroomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BedroomTest - 2019.05.23 at 22h 03m 06s.xml">
+      <configuration name="BedroomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LivingRoomTest - 2019.05.23 at 22h 03m 11s.xml">
+      <configuration name="LivingRoomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmartThermostatTest_getBathroom - 2019.05.23 at 22h 14m 56s.xml">
+      <configuration name="SmartThermostatTest.getBathroom" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmartThermostatTest - 2019.05.23 at 22h 16m 24s.xml">
+      <configuration name="SmartThermostatTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RoomTest - 2019.05.23 at 22h 25m 34s.xml">
+      <configuration name="RoomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LivingRoomTest - 2019.05.23 at 22h 25m 39s.xml">
+      <configuration name="LivingRoomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddressTest - 2019.05.23 at 22h 25m 52s.xml">
+      <configuration name="AddressTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30330000" />
+    <option name="totallyTimeSpent" value="43108000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="23" width="720" height="877" extended-state="0" />
+    <frame x="10" y="23" width="1440" height="877" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30235988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -288,18 +579,19 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -322,76 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/CardBalanceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/Name.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/NameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/EmailTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1279#1280#0" expanded="true" />
-            <element signature="e#1308#1309#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1483#1484#0" expanded="true" />
-            <element signature="e#1684#1685#0" expanded="true" />
-            <element signature="e#1717#1718#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/Meat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem1/IRoom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -403,113 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/Perishable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding>
-            <element signature="e#1384#1385#0" expanded="true" />
-            <element signature="e#1405#1406#0" expanded="true" />
-            <element signature="e#1517#1518#0" expanded="true" />
-            <element signature="e#1546#1547#0" expanded="true" />
-            <element signature="e#1687#1688#0" expanded="true" />
-            <element signature="e#1721#1722#0" expanded="true" />
-            <element signature="e#1920#1921#0" expanded="true" />
-            <element signature="e#1953#1954#0" expanded="true" />
-            <element signature="e#2078#2079#0" expanded="true" />
-            <element signature="e#2104#2105#0" expanded="true" />
-            <element signature="e#2211#2212#0" expanded="true" />
-            <element signature="e#2242#2243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem1/Bathroom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="57" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem1/Bedroom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/CardBalance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/AddressTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem1/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem1/LivingRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem1/SmartThermostat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-          <folding>
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/GiftCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/InvalidDepositException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/Deposit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
-          <folding>
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-            <element signature="e#1234#1235#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -527,6 +642,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/InvalidDepositException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment2-willia5w/src/Problem1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/Problem1</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="236.5" y="237.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/BedroomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/SmartThermostatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/SmartThermostat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/LivingRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/CardBalanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/Bedroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/Bathroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/BathroomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/RoomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem1/LivingRoomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem2/Email.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -534,10 +758,317 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/Address.java">
+    <entry file="file://$PROJECT_DIR$/src/Problem2/CardBalance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/GiftCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/GiftCardTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/NameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
           <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/AddressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/EmailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Vegetable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Rice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Pasta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Meat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="96" />
+          <folding>
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1225#1226#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Perishable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/PerishableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Deposit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwnerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+          <folding>
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Problem1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Problem1</OriginalElement>
+          <nodes>
+            <node x="782.7185064935065" y="479.0">Problem1.BathroomTest</node>
+            <node x="230.0" y="479.0">Problem1.LivingRoomTest</node>
+            <node x="135.19147727272713" y="219.0">Problem1.LivingRoom</node>
+            <node x="0.0" y="490.0">Problem1.RoomTest</node>
+            <node x="458.71850649350654" y="468.0">Problem1.SmartThermostat</node>
+            <node x="997.7185064935065" y="479.0">Problem1.BedroomTest</node>
+            <node x="933.7807629870128" y="219.0">Problem1.Bedroom</node>
+            <node x="465.46850649350654" y="0.0">Problem1.Room</node>
+            <node x="409.6247564935063" y="729.0">Problem1.SmartThermostatTest</node>
+            <node x="499.46850649350654" y="219.0">Problem1.Bathroom</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Problem1.SmartThermostat" target="Problem1.LivingRoom">
+              <point x="-75.75" y="-90.5" />
+              <point x="534.4685064935065" y="418.0" />
+              <point x="399.5664772727271" y="418.0" />
+              <point x="123.375" y="79.5" />
+            </edge>
+            <edge source="Problem1.LivingRoom" target="Problem1.Room">
+              <point x="-70.5" y="-79.5" />
+              <point x="205.69147727272713" y="189.0" />
+              <point x="509.1827922077923" y="189.0" />
+              <point x="-58.28571428571422" y="79.5" />
+            </edge>
+            <edge source="Problem1.SmartThermostatTest" target="Problem1.Bathroom">
+              <point x="-23.909090909090878" y="-112.5" />
+              <point x="517.2156655844154" y="669.0" />
+              <point x="448.21850649350654" y="669.0" />
+              <point x="448.21850649350654" y="448.0" />
+              <point x="557.7542207792209" y="448.0" />
+              <point x="-77.71428571428567" y="79.5" />
+            </edge>
+            <edge source="Problem1.SmartThermostatTest" target="Problem1.Bedroom">
+              <point x="119.5454545454545" y="-112.5" />
+              <point x="660.6702110389608" y="709.0" />
+              <point x="1213.2185064935065" y="709.0" />
+              <point x="1213.2185064935065" y="428.0" />
+              <point x="1181.7093344155842" y="428.0" />
+              <point x="114.42857142857133" y="79.5" />
+            </edge>
+            <edge source="Problem1.SmartThermostat" target="Problem1.Bedroom">
+              <point x="126.25" y="-90.5" />
+              <point x="736.4685064935065" y="438.0" />
+              <point x="990.9950487012986" y="438.0" />
+              <point x="-76.28571428571422" y="79.5" />
+            </edge>
+            <edge source="Problem1.RoomTest" target="Problem1.LivingRoom">
+              <point x="46.75" y="-68.5" />
+              <point x="140.25" y="448.0" />
+              <point x="152.81647727272713" y="448.0" />
+              <point x="-123.375" y="79.5" />
+            </edge>
+            <edge source="Problem1.RoomTest" target="Problem1.Room">
+              <point x="-46.75" y="-68.5" />
+              <point x="46.75" y="179.0" />
+              <point x="480.0399350649351" y="179.0" />
+              <point x="-87.42857142857144" y="79.5" />
+            </edge>
+            <edge source="Problem1.SmartThermostat" target="Problem1.Bathroom">
+              <point x="-25.25" y="-90.5" />
+              <point x="584.9685064935065" y="448.0" />
+              <point x="596.6113636363636" y="448.0" />
+              <point x="-38.85714285714289" y="79.5" />
+            </edge>
+            <edge source="Problem1.SmartThermostatTest" target="Problem1.LivingRoom">
+              <point x="-119.5454545454545" y="-112.5" />
+              <point x="421.5793019480518" y="709.0" />
+              <point x="197.5" y="709.0" />
+              <point x="197.5" y="448.0" />
+              <point x="188.06647727272713" y="448.0" />
+              <point x="-88.125" y="79.5" />
+            </edge>
+            <edge source="Problem1.SmartThermostatTest" target="Problem1.SmartThermostat">
+              <point x="0.0" y="-112.5" />
+              <point x="541.1247564935063" y="709.0" />
+              <point x="534.4685064935065" y="709.0" />
+              <point x="-75.75" y="90.5" />
+            </edge>
+            <edge source="Problem1.BedroomTest" target="Problem1.Bedroom">
+              <point x="48.5" y="-79.5" />
+              <point x="1143.2185064935065" y="448.0" />
+              <point x="1105.42362012987" y="448.0" />
+              <point x="38.14285714285711" y="79.5" />
+            </edge>
+            <edge source="Problem1.LivingRoomTest" target="Problem1.LivingRoom">
+              <point x="48.5" y="-79.5" />
+              <point x="375.5" y="448.0" />
+              <point x="329.0664772727271" y="448.0" />
+              <point x="52.875" y="79.5" />
+            </edge>
+            <edge source="Problem1.BathroomTest" target="Problem1.Bathroom">
+              <point x="48.5" y="-79.5" />
+              <point x="928.2185064935065" y="398.0" />
+              <point x="752.0399350649351" y="398.0" />
+              <point x="116.57142857142856" y="79.5" />
+            </edge>
+            <edge source="Problem1.Bedroom" target="Problem1.Room">
+              <point x="66.75" y="-79.5" />
+              <point x="1134.0307629870128" y="179.0" />
+              <point x="654.897077922078" y="179.0" />
+              <point x="87.42857142857144" y="79.5" />
+            </edge>
+            <edge source="Problem1.Bathroom" target="Problem1.Room">
+              <point x="68.0" y="-79.5" />
+              <point x="703.4685064935065" y="199.0" />
+              <point x="596.6113636363636" y="199.0" />
+              <point x="29.14285714285711" y="79.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="669.0" y="570.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>

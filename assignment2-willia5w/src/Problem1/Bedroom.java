@@ -5,19 +5,14 @@ package Problem1;
  * It is an extension of the Room abstract class with concrete temperature limits.
  */
 class Bedroom extends Room{
-    private Integer currentTemp;
-    private static Integer minTemp = 60;
-    private static Integer maxTemp = 68;
+    private static Integer min = 60;
+    private static Integer max = 68;
 
-    /**
-     * Constructs a Bedroom object and initializes it with its max and min temperature
-     * @param minTemp the min temp of the bedroom
-     * @param maxTemp the max temp of the bedroom
-     */
+
     public Bedroom(Integer currentTemp, Integer minTemp, Integer maxTemp) {
-        this.currentTemp = currentTemp;
-        this.minTemp = minTemp;
-        this.maxTemp = maxTemp;
+        super(currentTemp, minTemp, maxTemp);
+        this.minTemp = min;
+        this.maxTemp = max;
     }
 
     /**
