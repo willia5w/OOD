@@ -1,5 +1,8 @@
+PrototypeVideoGame/Soldier.class
+PrototypeVideoGame/IncorrectWealthValueException.class
+PrototypeVideoGame/Name.class
 edu/neu/css/cs5004/shapes/Shape.class
-edu/neu/css/cs5004/shapes/Rectangle.class
-edu/neu/css/cs5004/shapes/AbstractShape.class
-edu/neu/css/cs5004/shapes/Circle.class
 edu/neu/css/cs5004/shapes/Posn.class
+edu/neu/css/cs5004/shapes/AbstractShape.class
+PrototypeVideoGame/Piece.class
+PrototypeVideoGame/IncorrectAgeRangeException.class

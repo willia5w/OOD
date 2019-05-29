@@ -2,6 +2,8 @@
   <dictionary name="danielwilliams">
     <words>
       <w>posn</w>
+      <w>xcoord</w>
+      <w>ycoord</w>
     </words>
   </dictionary>
 </component>

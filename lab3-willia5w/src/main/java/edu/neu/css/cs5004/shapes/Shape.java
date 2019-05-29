@@ -27,7 +27,7 @@ public interface Shape {
 
   /**
    * Create and return a shape of the same kind as this one, resized
-   * in area by the provided factor
+   * in area by the provided factor.
    * @param factor factor of resizing
    * @return the resized Shape
    */

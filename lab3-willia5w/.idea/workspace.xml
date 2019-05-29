@@ -2,39 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e16761a-d628-4196-a132-49d88ed00a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/BathroomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/BedroomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/LivingRoomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/RoomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/SmartThermostatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/CardOwnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/GiftCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/FoodOrderingSystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/NonPerishableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/Pasta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/PerishableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/Rice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/Vegetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Civilian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectAgeRangeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectWealthValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Soldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrototypeVideoGame/CivilianTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/RectangleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/Bathroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/Bathroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/Bedroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/LivingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/LivingRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem1/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/CardBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/CardBalance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/CardOwner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/CardOwner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/GiftCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/GiftCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/InvalidDepositException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/NameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem2/NameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/FoodOrderingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/FoodOrderingSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/Meat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/NonPerishable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/NonPerishable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/Perishable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/src/Problem3/Perishable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/danielwilliams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/danielwilliams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Posn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Posn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Posn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Posn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/findbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/findbugsXml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/pmd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/AbstractShape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/AbstractShape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Circle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Posn.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Posn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Rectangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Shape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Shape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/AbstractShape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/AbstractShape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Circle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Posn.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Posn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Rectangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Shape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Shape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.rss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/distribution-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/distribution-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/findbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/findbugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/findbugs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/findbugs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/integration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/issue-tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/issue-tracking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/AbstractShape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/AbstractShape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/AbstractShape.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/AbstractShape.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Circle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Circle.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Circle.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Posn.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Posn.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Rectangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Rectangle.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Rectangle.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/index.source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/mail-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/mail-lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/pmd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/pmd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/source-repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/source-repository.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/team-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/team-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/xref-test/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/xref-test/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Circle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Posn.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Posn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Rectangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Shape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Shape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.ccs.cs5004.shapes.CircleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.ccs.cs5004.shapes.CircleTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.ccs.cs5004.shapes.PosnTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.ccs.cs5004.shapes.PosnTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.neu.ccs.cs5004.shapes.CircleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.neu.ccs.cs5004.shapes.CircleTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.neu.ccs.cs5004.shapes.PosnTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.neu.ccs.cs5004.shapes.PosnTest.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,79 +107,122 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="804">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/AbstractShape.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/RectangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="344">
+              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Posn.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="180">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Name.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Civilian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Rectangle.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PrototypeVideoGame/CivilianTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="50" column="3" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+            <state relative-caret-position="435">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectAgeRangeException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectWealthValueException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Soldier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PrototypeVideoGame/NameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,6 +236,11 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pac</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -155,11 +260,23 @@
         <option value="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/Posn.java" />
         <option value="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/PosnTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Posn.java" />
         <option value="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/AbstractShape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Posn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Shape.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/css/cs5004/shapes/RectangleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/css/cs5004/RectangleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/RectangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/NameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectAgeRangeException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Soldier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Name.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectWealthValueException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Civilian.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PrototypeVideoGame/CivilianTest.java" />
       </list>
     </option>
   </component>
@@ -186,7 +303,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="720" />
     <option name="y" value="23" />
     <option name="width" value="720" />
@@ -236,6 +353,14 @@
               <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PrototypeVideoGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -252,6 +377,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shapes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PrototypeVideoGame" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
@@ -393,7 +526,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="PrototypeVideoGame" />
+      <recent name="edu.neu.css.cs5004.shapes" />
       <recent name="edu.neu.ccs.cs5004.shapes" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="PrototypeVideoGame" />
+      <recent name="edu.neu.css.cs5004" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PrototypeVideoGame" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -411,6 +553,62 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.RectangleTest.validRectangle">
+    <configuration name="RectangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.ccs.cs5004.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.ccs.cs5004.shapes" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.ccs.cs5004.shapes.RectangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.invalidRectangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.ccs.cs5004.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.ccs.cs5004.shapes" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.ccs.cs5004.shapes.RectangleTest" />
+      <option name="METHOD_NAME" value="invalidRectangle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.validRectangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.ccs.cs5004.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.ccs.cs5004.shapes" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.ccs.cs5004.shapes.RectangleTest" />
+      <option name="METHOD_NAME" value="validRectangle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RectangleTest.validRectangle" />
+        <item itemvalue="JUnit.RectangleTest" />
+        <item itemvalue="JUnit.RectangleTest.invalidRectangle" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -424,24 +622,33 @@
       <workItem from="1558576180814" duration="2900000" />
       <workItem from="1558579422935" duration="1487000" />
       <workItem from="1558580992407" duration="7302000" />
-      <workItem from="1558632337121" duration="845000" />
+      <workItem from="1558632337121" duration="12075000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="RectangleTest - 2019.05.28 at 22h 20m 40s.xml">
+      <configuration name="RectangleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangleTest_invalidRectangle - 2019.05.28 at 22h 21m 53s.xml">
+      <configuration name="RectangleTest.invalidRectangle" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12534000" />
+    <option name="totallyTimeSpent" value="23764000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="23" width="720" height="877" extended-state="1" />
+    <frame x="720" y="23" width="720" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.47640118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36430678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2700637" />
@@ -459,7 +666,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.27433628" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.2739628" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -515,13 +722,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Circle.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="480">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -532,12 +739,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Posn.class">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/AbstractShape.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -546,37 +749,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java">
+    <entry file="file://$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Circle.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Shape.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Rectangle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Posn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="384">
+          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="804">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Soldier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrototypeVideoGame/NameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectAgeRangeException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="50" column="3" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+        <state relative-caret-position="45">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectWealthValueException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Civilian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrototypeVideoGame/CivilianTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

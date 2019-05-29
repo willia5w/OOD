@@ -10,17 +10,20 @@ public class Rectangle extends AbstractShape {
 
   /**
    * Constructs a rectangle object with the given location of its lower-left
-   * corner and dimensions
+   * corner and dimensions.
    *
-   * @param x      x coordinate of the lower-left corner of this rectangle
-   * @param y      y coordinate of the lower-left corner of this rectangle
+   * @param xcoord x coordinate of the lower-left corner of this rectangle
+   * @param ycoord y coordinate of the lower-left corner of this rectangle
    * @param width  width of this rectangle
    * @param height height of this rectangle
    */
-  public Rectangle(double x, double y, double width, double height) {
-    super(new Posn(x, y));
+  public Rectangle(double xcoord, double ycoord, double width, double height) throws IllegalArgumentException {
+    super(new Posn(xcoord, ycoord));
     this.width = width;
     this.height = height;
+    if (this.width <= 0 || this.height <= 0) {
+      throw new IllegalArgumentException("Input cannot be zero or negative");
+    }
   }
 
   @Override
@@ -43,6 +46,10 @@ public class Rectangle extends AbstractShape {
             sqrtFactor * this.height);
   }
 
+  /**
+   * Return string expressing the dimensions of the rectangle.
+   * @return string expressing the dimensions of the rectangle
+   */
   public String toString() {
     return String.format("Rectangle: LL corner (%.3f,%.3f) width %.3f height "
                     + "%.3f",
