@@ -2,96 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e16761a-d628-4196-a132-49d88ed00a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Civilian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectAgeRangeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectWealthValueException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PrototypeVideoGame/CivilianTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/RectangleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/danielwilliams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/danielwilliams.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Posn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Posn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Posn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Posn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/neu/css/cs5004/shapes/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/findbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/findbugsXml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/pmd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/AbstractShape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/AbstractShape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Circle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Posn.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Posn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Rectangle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Shape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/Shape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/AbstractShape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/AbstractShape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Circle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Posn.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Posn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Rectangle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Shape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/class-use/Shape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/css/cs5004/shapes/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.rss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/distribution-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/distribution-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/findbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/findbugs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/findbugs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/findbugs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/integration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/issue-tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/issue-tracking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/AbstractShape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/AbstractShape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/AbstractShape.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/AbstractShape.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Circle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Circle.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Circle.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Posn.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Posn.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Rectangle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Rectangle.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/Rectangle.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.css.cs5004.shapes/index.source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/license.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/mail-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/mail-lists.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/pmd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/pmd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/source-repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/source-repository.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/team-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/team-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/overview-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Circle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Posn.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Posn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Rectangle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Shape.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/css/cs5004/shapes/Shape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.ccs.cs5004.shapes.CircleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.ccs.cs5004.shapes.CircleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.ccs.cs5004.shapes.PosnTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.ccs.cs5004.shapes.PosnTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.neu.ccs.cs5004.shapes.CircleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.neu.ccs.cs5004.shapes.CircleTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.neu.ccs.cs5004.shapes.PosnTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.neu.ccs.cs5004.shapes.PosnTest.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="804">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -134,10 +45,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="225">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding>
-                <element signature="e#221#222#0" expanded="true" />
                 <element signature="e#242#243#0" expanded="true" />
                 <element signature="e#271#272#0" expanded="true" />
                 <element signature="e#291#292#0" expanded="true" />
@@ -149,13 +59,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Name.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="-164">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Civilian.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -168,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PrototypeVideoGame/CivilianTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -196,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectWealthValueException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#149#150#0" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
@@ -210,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Soldier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -219,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/PrototypeVideoGame/NameTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -271,12 +181,12 @@
         <option value="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/shapes/RectangleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/NameTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectAgeRangeException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Soldier.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Name.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectWealthValueException.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Civilian.java" />
         <option value="$PROJECT_DIR$/src/test/java/PrototypeVideoGame/CivilianTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java" />
       </list>
     </option>
   </component>
@@ -381,14 +291,6 @@
             <path>
               <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PrototypeVideoGame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -439,69 +341,6 @@
               <item name="edu" type="462c0819:PsiDirectoryNode" />
               <item name="neu" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
-              <item name="shapes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="neu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="neu" type="462c0819:PsiDirectoryNode" />
-              <item name="ccs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="neu" type="462c0819:PsiDirectoryNode" />
-              <item name="ccs" type="462c0819:PsiDirectoryNode" />
-              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab3-willia5w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab3-willia5w" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="neu" type="462c0819:PsiDirectoryNode" />
-              <item name="ccs" type="462c0819:PsiDirectoryNode" />
               <item name="cs5004" type="462c0819:PsiDirectoryNode" />
               <item name="shapes" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -622,7 +461,7 @@
       <workItem from="1558576180814" duration="2900000" />
       <workItem from="1558579422935" duration="1487000" />
       <workItem from="1558580992407" duration="7302000" />
-      <workItem from="1558632337121" duration="12075000" />
+      <workItem from="1558632337121" duration="12721000" />
     </task>
     <servers />
   </component>
@@ -635,11 +474,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23764000" />
+    <option name="totallyTimeSpent" value="24410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="23" width="720" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36430678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -648,7 +486,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2700637" />
@@ -666,7 +504,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.2739628" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.27286136" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -801,7 +639,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/css/cs5004/shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="804">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
@@ -819,30 +657,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Soldier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrototypeVideoGame/NameTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -860,10 +678,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrototypeVideoGame/CivilianTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Soldier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/IncorrectWealthValueException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
@@ -878,23 +732,6 @@
           <folding>
             <element signature="e#417#418#0" expanded="true" />
             <element signature="e#440#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PrototypeVideoGame/Name.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PrototypeVideoGame/CivilianTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

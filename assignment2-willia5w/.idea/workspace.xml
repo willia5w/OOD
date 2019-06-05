@@ -2,39 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7003c8a7-3f39-4046-b317-2bcf36673b58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem1/BathroomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem1/BedroomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem1/LivingRoomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem1/RoomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem1/SmartThermostatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem2/CardOwnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem2/GiftCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/FoodOrderingSystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/NonPerishableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/Pasta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/PerishableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/Rice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem3/Vegetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4-willia5w/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4-willia5w/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4-willia5w/src/main/java/edu/neu/khoury/cs5004/Problem1/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4-willia5w/src/main/java/edu/neu/khoury/cs5004/Problem1/Capturers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4-willia5w/src/main/java/edu/neu/khoury/cs5004/Problem1/IArtist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4-willia5w/src/main/java/edu/neu/khoury/cs5004/Problem1/Musician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4-willia5w/src/main/java/edu/neu/khoury/cs5004/Problem1/Performers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4-willia5w/src/main/java/edu/neu/khoury/cs5004/Problem1/Poet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem1/Bathroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/Bathroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem1/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/Bedroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem1/LivingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/LivingRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem1/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem2/CardBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2/CardBalance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem2/CardOwner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2/CardOwner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem2/GiftCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2/GiftCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem2/InvalidDepositException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem2/NameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2/NameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem3/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Meat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem3/NonPerishable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/NonPerishable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem3/Perishable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Perishable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3-willia5w/src/test/java/edu/neu/ccs/cs5004/shapes/PosnTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +28,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Problem3/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -64,25 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="96" />
-              <folding>
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#889#890#0" expanded="true" />
-                <element signature="e#911#912#0" expanded="true" />
-                <element signature="e#948#949#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-                <element signature="e#1001#1002#0" expanded="true" />
-                <element signature="e#1022#1023#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
-                <element signature="e#1073#1074#0" expanded="true" />
-                <element signature="e#1117#1118#0" expanded="true" />
-                <element signature="e#1152#1153#0" expanded="true" />
-                <element signature="e#1193#1194#0" expanded="true" />
-                <element signature="e#1225#1226#0" expanded="true" />
-                <element signature="e#1037#1038#0" expanded="true" />
-                <element signature="e#1098#1099#0" expanded="true" />
-              </folding>
+              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -90,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystemTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="525">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -99,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="105">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -118,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/src/Problem3/Perishable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -127,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/src/Problem3/PerishableTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -135,141 +94,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwnerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+            <state relative-caret-position="765">
+              <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
               <folding>
                 <element signature="e#1385#1386#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
+                <element signature="e#1468#1469#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/Problem1">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>Problem1</OriginalElement>
-              <nodes>
-                <node x="782.7185064935065" y="479.0">Problem1.BathroomTest</node>
-                <node x="230.0" y="479.0">Problem1.LivingRoomTest</node>
-                <node x="135.19147727272713" y="219.0">Problem1.LivingRoom</node>
-                <node x="0.0" y="490.0">Problem1.RoomTest</node>
-                <node x="458.71850649350654" y="468.0">Problem1.SmartThermostat</node>
-                <node x="997.7185064935065" y="479.0">Problem1.BedroomTest</node>
-                <node x="933.7807629870128" y="219.0">Problem1.Bedroom</node>
-                <node x="465.46850649350654" y="0.0">Problem1.Room</node>
-                <node x="409.6247564935063" y="729.0">Problem1.SmartThermostatTest</node>
-                <node x="499.46850649350654" y="219.0">Problem1.Bathroom</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="Problem1.SmartThermostat" target="Problem1.LivingRoom">
-                  <point x="-75.75" y="-90.5" />
-                  <point x="534.4685064935065" y="418.0" />
-                  <point x="399.5664772727271" y="418.0" />
-                  <point x="123.375" y="79.5" />
-                </edge>
-                <edge source="Problem1.LivingRoom" target="Problem1.Room">
-                  <point x="-70.5" y="-79.5" />
-                  <point x="205.69147727272713" y="189.0" />
-                  <point x="509.1827922077923" y="189.0" />
-                  <point x="-58.28571428571422" y="79.5" />
-                </edge>
-                <edge source="Problem1.SmartThermostatTest" target="Problem1.Bathroom">
-                  <point x="-23.909090909090878" y="-112.5" />
-                  <point x="517.2156655844154" y="669.0" />
-                  <point x="448.21850649350654" y="669.0" />
-                  <point x="448.21850649350654" y="448.0" />
-                  <point x="557.7542207792209" y="448.0" />
-                  <point x="-77.71428571428567" y="79.5" />
-                </edge>
-                <edge source="Problem1.SmartThermostatTest" target="Problem1.Bedroom">
-                  <point x="119.5454545454545" y="-112.5" />
-                  <point x="660.6702110389608" y="709.0" />
-                  <point x="1213.2185064935065" y="709.0" />
-                  <point x="1213.2185064935065" y="428.0" />
-                  <point x="1181.7093344155842" y="428.0" />
-                  <point x="114.42857142857133" y="79.5" />
-                </edge>
-                <edge source="Problem1.SmartThermostat" target="Problem1.Bedroom">
-                  <point x="126.25" y="-90.5" />
-                  <point x="736.4685064935065" y="438.0" />
-                  <point x="990.9950487012986" y="438.0" />
-                  <point x="-76.28571428571422" y="79.5" />
-                </edge>
-                <edge source="Problem1.RoomTest" target="Problem1.LivingRoom">
-                  <point x="46.75" y="-68.5" />
-                  <point x="140.25" y="448.0" />
-                  <point x="152.81647727272713" y="448.0" />
-                  <point x="-123.375" y="79.5" />
-                </edge>
-                <edge source="Problem1.RoomTest" target="Problem1.Room">
-                  <point x="-46.75" y="-68.5" />
-                  <point x="46.75" y="179.0" />
-                  <point x="480.0399350649351" y="179.0" />
-                  <point x="-87.42857142857144" y="79.5" />
-                </edge>
-                <edge source="Problem1.SmartThermostat" target="Problem1.Bathroom">
-                  <point x="-25.25" y="-90.5" />
-                  <point x="584.9685064935065" y="448.0" />
-                  <point x="596.6113636363636" y="448.0" />
-                  <point x="-38.85714285714289" y="79.5" />
-                </edge>
-                <edge source="Problem1.SmartThermostatTest" target="Problem1.LivingRoom">
-                  <point x="-119.5454545454545" y="-112.5" />
-                  <point x="421.5793019480518" y="709.0" />
-                  <point x="197.5" y="709.0" />
-                  <point x="197.5" y="448.0" />
-                  <point x="188.06647727272713" y="448.0" />
-                  <point x="-88.125" y="79.5" />
-                </edge>
-                <edge source="Problem1.SmartThermostatTest" target="Problem1.SmartThermostat">
-                  <point x="0.0" y="-112.5" />
-                  <point x="541.1247564935063" y="709.0" />
-                  <point x="534.4685064935065" y="709.0" />
-                  <point x="-75.75" y="90.5" />
-                </edge>
-                <edge source="Problem1.BedroomTest" target="Problem1.Bedroom">
-                  <point x="48.5" y="-79.5" />
-                  <point x="1143.2185064935065" y="448.0" />
-                  <point x="1105.42362012987" y="448.0" />
-                  <point x="38.14285714285711" y="79.5" />
-                </edge>
-                <edge source="Problem1.LivingRoomTest" target="Problem1.LivingRoom">
-                  <point x="48.5" y="-79.5" />
-                  <point x="375.5" y="448.0" />
-                  <point x="329.0664772727271" y="448.0" />
-                  <point x="52.875" y="79.5" />
-                </edge>
-                <edge source="Problem1.BathroomTest" target="Problem1.Bathroom">
-                  <point x="48.5" y="-79.5" />
-                  <point x="928.2185064935065" y="398.0" />
-                  <point x="752.0399350649351" y="398.0" />
-                  <point x="116.57142857142856" y="79.5" />
-                </edge>
-                <edge source="Problem1.Bedroom" target="Problem1.Room">
-                  <point x="66.75" y="-79.5" />
-                  <point x="1134.0307629870128" y="179.0" />
-                  <point x="654.897077922078" y="179.0" />
-                  <point x="87.42857142857144" y="79.5" />
-                </edge>
-                <edge source="Problem1.Bathroom" target="Problem1.Room">
-                  <point x="68.0" y="-79.5" />
-                  <point x="703.4685064935065" y="199.0" />
-                  <point x="596.6113636363636" y="199.0" />
-                  <point x="29.14285714285711" y="79.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="669.0" y="570.5" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -341,9 +171,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="10" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="y" value="142" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -353,8 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -389,6 +217,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -528,7 +358,8 @@
       <updated>1558138935399</updated>
       <workItem from="1558566506822" duration="6170000" />
       <workItem from="1558593946774" duration="203000" />
-      <workItem from="1558632337272" duration="36735000" />
+      <workItem from="1558632337272" duration="36873000" />
+      <workItem from="1559179970394" duration="602000" />
     </task>
     <servers />
   </component>
@@ -565,13 +396,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43108000" />
+    <option name="totallyTimeSpent" value="43848000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="23" width="1440" height="877" extended-state="1" />
-    <editor active="true" />
+    <frame x="59" y="142" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17381974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -579,6 +409,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3299363" />
@@ -607,48 +438,12 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problem2/Amount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem1/IRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem1/TempCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/AccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/InvalidDepositException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Amount.java" />
+    <entry file="file://$PROJECT_DIR$/src/Problem1/IRoom.java" />
+    <entry file="file://$PROJECT_DIR$/src/Problem1/TempCheck.java" />
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Account.java" />
+    <entry file="file://$PROJECT_DIR$/src/Problem2/AccountTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Problem2/InvalidDepositException.java" />
     <entry file="uml://JavaScript-modules-diagram//Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment2-willia5w/src/Problem1">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -657,11 +452,12 @@
           <nodes />
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="236.5" y="237.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="237.0" y="238.0" />
           <SelectedNodes />
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
@@ -860,91 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="96" />
-          <folding>
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-            <element signature="e#1001#1002#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1117#1118#0" expanded="true" />
-            <element signature="e#1152#1153#0" expanded="true" />
-            <element signature="e#1193#1194#0" expanded="true" />
-            <element signature="e#1225#1226#0" expanded="true" />
-            <element signature="e#1037#1038#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/Perishable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/PerishableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/Deposit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwnerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
-          <folding>
-            <element signature="e#1385#1386#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/Problem1">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1061,7 +772,7 @@
               <point x="29.14285714285711" y="79.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="669.0" y="570.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="669.0" y="571.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1069,6 +780,73 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/FoodOrderingSystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/NonPerishableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/Perishable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem3/PerishableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/CardOwnerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+          <folding>
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2/Deposit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="71" />
         </state>
       </provider>
     </entry>
