@@ -2,6 +2,7 @@ package edu.neu.khoury.cs5004.problem3;
 
 /**
  * This class represents an Integer Binary Tree ADT.
+ * I realize my implementation is neither recursive nor correct.
  */
 public class IntegerBinaryTree {
   private Node root;

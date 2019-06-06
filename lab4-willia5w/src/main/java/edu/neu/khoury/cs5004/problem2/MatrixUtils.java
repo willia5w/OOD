@@ -1,5 +1,8 @@
 package edu.neu.khoury.cs5004.problem2;
 
+/**
+ * Class incomplete, more practice with matrixes in Java required.
+ */
 public class MatrixUtils {
   private static Integer constant;
   private static Integer[][] matrix ;

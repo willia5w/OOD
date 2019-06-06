@@ -11,7 +11,7 @@ public abstract class Performer extends Artist {
 
 
   /**
-   * Initializes an Capturer with with name, age, status, genre, awards, movies, series, and other multimedia.
+   * Initializes an Performer with with name, age, status, genre, awards, movies, series, and other multimedia.
    *
    * @param name the Performer's name
    * @param age the Performer's age

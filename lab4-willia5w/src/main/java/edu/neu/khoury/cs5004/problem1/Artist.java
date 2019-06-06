@@ -12,7 +12,7 @@ public abstract class Artist implements IArtist{
   protected String awards;
 
   /**
-   * Initializes an Artist with with name, age, status, genre, and awards.
+   * Initializes an Artist with name, age, active years, genre, and awards.
    *
    * @param name the Artist's name
    * @param age the Artist's age

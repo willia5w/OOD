@@ -2,19 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2076e45-4e1b-4e68-bcd3-b42df870c9d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Capturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IArtist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ICapturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Musician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Poet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment2-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2-willia5w/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab3-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3-willia5w/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Dancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/FilmMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Painter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Photographer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/PainterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/MatrixUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/lab5-willia5w.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/Cons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/Empty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/IListOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/ListOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/IGameResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/IRockPaperScissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/IState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/Players.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ICapturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,180 +45,133 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5765379">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/MatrixUtils.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="158">
-                  <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Node.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-                  <folding>
-                    <element signature="e#159#160#0" expanded="true" />
-                    <element signature="e#181#182#0" expanded="true" />
-                    <element signature="e#208#209#0" expanded="true" />
-                    <element signature="e#229#230#0" expanded="true" />
-                    <element signature="e#257#258#0" expanded="true" />
-                    <element signature="e#279#280#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-239">
-                  <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ICapturer.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-                  <folding>
-                    <element signature="e#1168#1169#0" expanded="true" />
-                    <element signature="e#1295#1296#0" expanded="true" />
-                    <element signature="e#1445#1446#0" expanded="true" />
-                    <element signature="e#1579#1580#0" expanded="true" />
-                    <element signature="e#1717#1718#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Capturer.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="35" selection-start-column="35" selection-end-column="35" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Musician.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="523">
-                  <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#471#472#0" expanded="true" />
-                    <element signature="e#504#505#0" expanded="true" />
-                    <element signature="e#544#545#0" expanded="true" />
-                    <element signature="e#576#577#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Poet.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
-                  <folding>
-                    <element signature="e#930#931#0" expanded="true" />
-                    <element signature="e#964#965#0" expanded="true" />
-                    <element signature="e#1008#1009#0" expanded="true" />
-                    <element signature="e#1044#1045#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="56" selection-start-line="56" selection-end-line="56" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="810">
-                  <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-                  <folding>
-                    <element signature="e#1095#1096#0" expanded="true" />
-                    <element signature="e#1118#1119#0" expanded="true" />
-                    <element signature="e#1149#1150#0" expanded="true" />
-                    <element signature="e#1172#1173#0" expanded="true" />
-                    <element signature="e#1212#1213#0" expanded="true" />
-                    <element signature="e#1244#1245#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Name.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="369">
-                  <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-                  <folding>
-                    <element signature="e#551#552#0" expanded="true" />
-                    <element signature="e#589#590#0" expanded="true" />
-                    <element signature="e#601#602#0" expanded="true" />
-                    <element signature="e#629#630#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/NameTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/PainterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="33" />
+              <folding>
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#851#852#0" expanded="true" />
+                <element signature="e#904#905#0" expanded="true" />
+                <element signature="e#944#945#0" expanded="true" />
+                <element signature="e#997#998#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Dancer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="79" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/MatrixUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/MatrixUtilsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="77" column="57" lean-forward="true" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+              <folding>
+                <element signature="e#1147#1148#0" expanded="true" />
+                <element signature="e#1168#1169#0" expanded="true" />
+                <element signature="e#1275#1276#0" expanded="true" />
+                <element signature="e#1295#1296#0" expanded="true" />
+                <element signature="e#1422#1423#0" expanded="true" />
+                <element signature="e#1445#1446#0" expanded="true" />
+                <element signature="e#1557#1558#0" expanded="true" />
+                <element signature="e#1579#1580#0" expanded="true" />
+                <element signature="e#1694#1695#0" expanded="true" />
+                <element signature="e#1717#1718#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Actor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="94" column="38" lean-forward="true" selection-start-line="94" selection-start-column="38" selection-end-line="94" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IArtist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/FilmMaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="67" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -232,6 +202,15 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Name.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Painter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Photographer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Dancer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/FilmMaker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/PainterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Actor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/MatrixUtilsTest.java" />
       </list>
     </option>
   </component>
@@ -258,7 +237,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="720" />
     <option name="y" value="23" />
     <option name="width" value="720" />
@@ -366,9 +345,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.neu.khoury.cs5004.problem2" />
+      <recent name="edu.neu.khoury.cs5004.problem1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.neu.khoury.cs5004.problem1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -393,25 +386,25 @@
       <option name="presentableId" value="Default" />
       <updated>1559178740213</updated>
       <workItem from="1559178759016" duration="1062000" />
-      <workItem from="1559179970344" duration="21756000" />
+      <workItem from="1559179970344" duration="27796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22818000" />
+    <option name="totallyTimeSpent" value="28858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="23" width="720" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36552218" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40707964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="CheckStyle" order="0" sideWeight="0.49928468" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" sideWeight="0.49928468" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49928468" weight="0.3299363" />
@@ -435,17 +428,17 @@
       <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36552218" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42035398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="CheckStyle" order="0" sideWeight="0.49928468" weight="0.3299363" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" sideWeight="0.49928468" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49928468" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49928468" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -521,20 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IArtist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ICapturer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Musician.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
@@ -544,6 +523,34 @@
             <element signature="e#504#505#0" expanded="true" />
             <element signature="e#544#545#0" expanded="true" />
             <element signature="e#576#577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -561,95 +568,180 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ICapturer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-          <folding>
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1118#1119#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1172#1173#0" expanded="true" />
-            <element signature="e#1212#1213#0" expanded="true" />
-            <element signature="e#1244#1245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Capturer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/NameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#1168#1169#0" expanded="true" />
-            <element signature="e#1295#1296#0" expanded="true" />
-            <element signature="e#1445#1446#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-            <element signature="e#1717#1718#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="152" column="10" lean-forward="true" selection-end-line="153" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/MatrixUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Photographer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="45">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/FilmMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="67" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Dancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="79" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/NameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Capturer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Painter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/PainterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="33" />
+          <folding>
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IArtist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+          <folding>
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1445#1446#0" expanded="true" />
+            <element signature="e#1557#1558#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1694#1695#0" expanded="true" />
+            <element signature="e#1717#1718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.neu.khoury.cs5004.problem1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.neu.khoury.cs5004.problem1</OriginalElement>
+          <nodes>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Photographer</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.PainterTest</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Artist</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Performer</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.IArtist</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.FilmMaker</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Poet</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Painter</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Musician</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Name</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Dancer</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Actor</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Capturer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="488.0" y="163.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Actor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="94" column="38" lean-forward="true" selection-start-line="94" selection-start-column="38" selection-end-line="94" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
-          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        <state relative-caret-position="512">
+          <caret line="77" column="57" lean-forward="true" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/MatrixUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Name.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/MatrixUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
