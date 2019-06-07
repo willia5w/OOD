@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2076e45-4e1b-4e68-bcd3-b42df870c9d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Dancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/FilmMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Painter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Photographer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/PainterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/MatrixUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/lab5-willia5w.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/Cons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/Empty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/IListOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/ListOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/IGameResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/IRockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/IState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/Paper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/Players.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ICapturer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -80,20 +51,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/MatrixUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="45">
+              <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/MatrixUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="285">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="77" column="57" lean-forward="true" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
+            <state relative-caret-position="311">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -199,7 +174,6 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/Problem2/MatrixUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/Problem3/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/Problem3/IntegerBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Name.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Performer.java" />
@@ -211,6 +185,8 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Artist.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Actor.java" />
         <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/MatrixUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/MatrixUtils.java" />
       </list>
     </option>
   </component>
@@ -237,8 +213,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="720" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="720" />
     <option name="height" value="877" />
@@ -332,6 +307,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cs5004" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -386,18 +370,17 @@
       <option name="presentableId" value="Default" />
       <updated>1559178740213</updated>
       <workItem from="1559178759016" duration="1062000" />
-      <workItem from="1559179970344" duration="27796000" />
+      <workItem from="1559179970344" duration="28308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28858000" />
+    <option name="totallyTimeSpent" value="29370000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="23" width="720" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40707964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -724,24 +707,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/MatrixUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="77" column="57" lean-forward="true" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
+        <state relative-caret-position="311">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/MatrixUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/MatrixUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="45">
+          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
         </state>
       </provider>
     </entry>
