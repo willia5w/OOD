@@ -1,10 +1,5 @@
 package edu.neu.khoury.cs5004.problem1;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
-import java.util.ArrayList;
-import java.util.List;
-
 
 public interface IDaycareTeacher {
 
@@ -28,5 +23,11 @@ public interface IDaycareTeacher {
    * Checks whether or not the list is empty.
    * @return
    */
+  String toString();
+
+  int hashCode();
+
+  boolean equals(Object obj);
+
 
 }
