@@ -14,9 +14,6 @@ public class ToddlerTeacher extends DaycareTeacher {
     this.currentNumPottyChildren = currentNumPottyChildren;
   }
 
-  public ToddlerTeacher(Name name, String classroom, Name coTeacher, Integer currentNumChildren, Integer maxNumChildren, Boolean teacherVacaStatus) {
-    super(name, classroom, coTeacher, currentNumChildren, maxNumChildren, teacherVacaStatus);
-  }
 
   @Override
   public boolean equals(Object o) {
@@ -35,7 +32,10 @@ public class ToddlerTeacher extends DaycareTeacher {
 
   @Override
   public String toString() {
-    return super.toString();
+    return "ToddlerTeacher{" +
+        "currentNumDiaperChildren=" + currentNumDiaperChildren +
+        ", currentNumPottyChildren=" + currentNumPottyChildren +
+        '}';
   }
 
   @Override

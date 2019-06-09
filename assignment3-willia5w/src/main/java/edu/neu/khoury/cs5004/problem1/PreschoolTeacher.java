@@ -6,16 +6,23 @@ public class PreschoolTeacher extends DaycareTeacher {
   private Integer currentNumReadingChildren;
 
   public PreschoolTeacher(Name name, String classroom, Name coTeacher, Integer currentNumChildren,
-                          Integer maxNumChildren, Boolean teacherVacaStatus, Integer currentNumReadingChildren) {
+                          Integer maxNumChildren, Boolean teacherVacaStatus,
+                          Integer currentNumReadingChildren) {
     super(name, classroom, coTeacher, currentNumChildren, maxNumChildren, teacherVacaStatus);
     this.currentNumReadingChildren = currentNumReadingChildren;
   }
 
   @Override
   public boolean equals(Object o) {
-    if (this == o) return true;
-    if (!(o instanceof PreschoolTeacher)) return false;
-    if (!super.equals(o)) return false;
+    if (this == o) {
+      return true;
+    }
+    if (!(o instanceof PreschoolTeacher)) {
+      return false;
+    }
+    if (!super.equals(o)) {
+      return false;
+    }
     PreschoolTeacher that = (PreschoolTeacher) o;
     return getCurrentNumReadingChildren().equals(that.getCurrentNumReadingChildren());
   }
@@ -27,7 +34,10 @@ public class PreschoolTeacher extends DaycareTeacher {
 
   @Override
   public String toString() {
-    return super.toString();
+    return "PreschoolTeacher{"
+        + "currentNumReadingChildren="
+        + currentNumReadingChildren
+        + '}';
   }
 
   @Override

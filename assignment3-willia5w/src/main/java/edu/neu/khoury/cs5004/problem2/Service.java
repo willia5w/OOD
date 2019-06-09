@@ -4,7 +4,11 @@ import java.util.Objects;
 
 
 public abstract class Service implements IService {
-  private static final Integer BASE_RATE = 80;
+  private static final Double TEN_SERVICES = 10.0;
+  private static final Double NINE_SERVICES = 9.0;
+  private static final Double NINETY_PERCENT = 0.9;
+  private static final Double FIFTY_PERCENT = 0.5;
+
   protected String invoiceID;
   protected String propertyAddress;
   protected PropertySize propertySize;
@@ -13,7 +17,7 @@ public abstract class Service implements IService {
   protected Double priceOfService;
 
 
-  public Service(Integer BASE_RATE, String invoiceID, String propertyAddress, Boolean monthly,
+  public Service(String invoiceID, String propertyAddress, Boolean monthly,
                  Integer timesServiced, Double priceOfService) {
     this.invoiceID = invoiceID;
     this.propertyAddress = propertyAddress;
@@ -62,13 +66,14 @@ public abstract class Service implements IService {
 
   }
   public void frequencyDiscount() {
-    if (monthly == true && timesServiced % 10 != 9) {
-      priceOfService = priceOfService * 0.9;
+    if (monthly == true && timesServiced % TEN_SERVICES != NINE_SERVICES) {
+      priceOfService = priceOfService * NINETY_PERCENT;
     }
-    if (monthly == true && timesServiced % 10 == 9) {
-      priceOfService = priceOfService * 0.5;
+    if (monthly == true && timesServiced % TEN_SERVICES == NINE_SERVICES) {
+      priceOfService = priceOfService * FIFTY_PERCENT;
     }
   }
+
   public Double calculatePrice() {
     baseFee();
     additionalFee();

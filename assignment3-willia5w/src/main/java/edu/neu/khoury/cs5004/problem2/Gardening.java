@@ -1,9 +1,9 @@
 package edu.neu.khoury.cs5004.problem2;
 
-public class Gardening extends Exterior{
+public class Gardening extends Exterior {
 
-  public Gardening(Integer BASE_RATE, String invoiceID, String propertyAddress, Boolean monthly, Integer timesServiced, Double priceOfService, Integer month) {
-    super(BASE_RATE, invoiceID, propertyAddress, monthly, timesServiced, priceOfService, month);
+  public Gardening( String invoiceID, String propertyAddress, Boolean monthly, Integer timesServiced, Double priceOfService, Integer month) {
+    super(invoiceID, propertyAddress, monthly, timesServiced, priceOfService, month);
   }
 
   /**
@@ -26,3 +26,4 @@ public class Gardening extends Exterior{
         '}';
   }
 }
+

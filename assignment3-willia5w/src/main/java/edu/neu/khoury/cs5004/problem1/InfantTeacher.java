@@ -34,7 +34,10 @@ public class InfantTeacher extends DaycareTeacher {
 
   @Override
   public String toString() {
-    return super.toString();
+    return "InfantTeacher{" +
+        "currentNumCrawlers=" + currentNumCrawlers +
+        ", currentNumWalkers=" + currentNumWalkers +
+        '}';
   }
 
   @Override

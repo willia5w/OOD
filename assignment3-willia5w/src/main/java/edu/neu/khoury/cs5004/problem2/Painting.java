@@ -1,11 +1,14 @@
 package edu.neu.khoury.cs5004.problem2;
 
 public class Painting extends Interior {
-  private static final double BASE_RATE = 80;
+  private static final Double BASE_RATE = 80.0;
+  private static final Double ONE_DAY = 8.0;
+  private static final Double TWO_DAYS = 16.0;
+  private static final Double THREE_DAYS = 24.0;
 
-  public Painting(Integer BASE_RATE, String invoiceID, String propertyAddress, Boolean monthly,
+  public Painting(String invoiceID, String propertyAddress, Boolean monthly,
                   Integer timesServiced, Double priceOfService, Integer numPets) {
-    super(BASE_RATE, invoiceID, propertyAddress, monthly, timesServiced, priceOfService, numPets);
+    super(invoiceID, propertyAddress, monthly, timesServiced, priceOfService, numPets);
   }
 
   @Override
@@ -24,11 +27,14 @@ public class Painting extends Interior {
   public void baseFee() {
     switch (propertySize) {
       case small:
-        priceOfService = BASE_RATE * 8.0;
+        priceOfService = BASE_RATE * ONE_DAY;
+        break;
       case medium:
-        priceOfService = BASE_RATE * 16.0;
+        priceOfService = BASE_RATE * TWO_DAYS;
+        break;
       case large:
-        priceOfService = BASE_RATE * 24.0;
+        priceOfService = BASE_RATE * THREE_DAYS;
+        break;
     }
   }
 

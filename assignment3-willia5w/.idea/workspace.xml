@@ -2,29 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c76e92-0e78-4779-a0be-1b1462e64340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/danielwilliams.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HrManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PreschoolTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/SubstituteTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Exterior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/IService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/InvoiceSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Painting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/PropertySize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Row.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IReservationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ISeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ITheater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ReservationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/InfantTeacherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/PaintingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/WindowCleaningTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/RowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/SeatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/TheaterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/DaycareTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/DaycareTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HrManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HrManagementSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IDaycareTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IDaycareTeacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InfantTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InfantTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PreschoolTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PreschoolTeacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ToddlerTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ToddlerTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Exterior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Exterior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Painting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Painting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/PropertySize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/PropertySize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Row.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Row.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Seat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/khoury/cs5004/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/neu/khoury/cs5004/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,47 +49,40 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/DaycareTeacher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Seat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Row.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theatre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InfantTeacher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="222">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1082#1083#0" expanded="true" />
-                <element signature="e#1178#1179#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/TheaterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -89,44 +90,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HrManagementSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="289">
+              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/IService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="285">
+              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/PaintingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-131">
-              <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="5" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="180">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+            <state relative-caret-position="270">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -136,8 +141,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -164,26 +170,40 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IListOfStrings.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IHrManagementSystem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IDaycareTeacher.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/DaycareTeacher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InfantTeacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/IService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/InvoiceSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/SubstituteTeacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theatre.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Name.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IRow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ITheater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ReservationSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ISeat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IReservationSystem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/SeatTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Seat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Row.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/RowTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Painting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Exterior.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/PaintingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ToddlerTeacher.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PreschoolTeacher.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/PropertySize.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/IService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Exterior.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Painting.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/InvoiceSystem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/SubstituteTeacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InfantTeacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IDaycareTeacher.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/InfantTeacherTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HrManagementSystem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Row.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theatre.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/TheaterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/WindowCleaningTest.java" />
       </list>
     </option>
   </component>
@@ -210,7 +230,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="720" />
     <option name="y" value="23" />
     <option name="width" value="720" />
     <option name="height" value="877" />
@@ -265,6 +286,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
               <item name="problem2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -272,6 +302,54 @@
               <item name="assignment3-willia5w" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cs5004" type="462c0819:PsiDirectoryNode" />
               <item name="problem3" type="462c0819:PsiDirectoryNode" />
@@ -287,12 +365,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.neu.khoury.cs5004.problem1" />
+      <recent name="edu.neu.khoury.cs5004.problem3" />
+      <recent name="edu.neu.khoury.cs5004.problem2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="edu.neu.khoury.cs5004.problem3" />
       <recent name="edu.neu.khoury.cs5004.problem2" />
@@ -311,6 +399,45 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.RowTest.getSeatObject">
+    <configuration name="RowTest.getSeatObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.khoury.cs5004.problem3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.khoury.cs5004.problem3" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.khoury.cs5004.problem3.RowTest" />
+      <option name="METHOD_NAME" value="getSeatObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.khoury.cs5004.problem3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.khoury.cs5004.problem3" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.khoury.cs5004.problem3.SeatTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RowTest.getSeatObject" />
+        <item itemvalue="JUnit.SeatTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -323,15 +450,15 @@
       <updated>1559780971027</updated>
       <workItem from="1559780975986" duration="6509000" />
       <workItem from="1559869631575" duration="522000" />
-      <workItem from="1559942877318" duration="26188000" />
+      <workItem from="1559942877318" duration="52334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33219000" />
+    <option name="totallyTimeSpent" value="59365000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="720" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -339,22 +466,22 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3761062" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22389127" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.3299363" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="CheckStyle" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.3299363" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3299363" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="CheckStyle" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -371,21 +498,22 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22389127" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.3299363" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="CheckStyle" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.3299363" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3299363" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="CheckStyle" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -464,13 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Name.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -478,157 +599,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ToddlerTeacher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Name.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/IService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="60">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IRow.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ReservationSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ITheater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ISeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IReservationSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Seat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
           <folding>
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-            <element signature="e#1236#1237#0" expanded="true" />
-            <element signature="e#1273#1274#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1354#1355#0" expanded="true" />
-            <element signature="e#1410#1411#0" expanded="true" />
-            <element signature="e#1456#1457#0" expanded="true" />
-            <element signature="e#1508#1509#0" expanded="true" />
-            <element signature="e#1550#1551#0" expanded="true" />
-            <element signature="e#1605#1606#0" expanded="true" />
-            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IDaycareTeacher.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/SeatTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="285">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-279">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+            <element signature="e#1262#1263#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Exterior.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        <state relative-caret-position="240">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          <folding>
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/PropertySize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Painting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding>
-            <element signature="e#1103#1104#0" expanded="true" />
-            <element signature="e#1142#1143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/InvoiceSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PreschoolTeacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="e#899#900#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="329">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/SubstituteTeacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="146">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding>
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HrManagementSystem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Name.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="330">
+          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IDaycareTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InfantTeacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="105">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1082#1083#0" expanded="true" />
@@ -637,55 +737,282 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/DaycareTeacher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PreschoolTeacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="149">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+            <element signature="e#1550#1551#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1744#1745#0" expanded="true" />
+            <element signature="e#1837#1838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ToddlerTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/PropertySize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/InvoiceSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/RowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/TheaterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Row.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theatre.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="222">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Seat.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/IService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HrManagementSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="289">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131">
-          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="5" selection-end-column="46" />
+        <state relative-caret-position="285">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="120">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/PaintingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+        <state relative-caret-position="180">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/WindowCleaningTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment3-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="293.0" y="367.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/InfantTeacherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1279#1280#0" expanded="true" />
+            <element signature="e#1370#1371#0" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+            <element signature="e#1485#1486#0" expanded="true" />
+            <element signature="e#1552#1553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/DaycareTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.neu.khoury.cs5004.problem1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.neu.khoury.cs5004.problem1</OriginalElement>
+          <nodes>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.PreschoolTeacher</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.ToddlerTeacher</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.Name</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.InfantTeacherTest</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.SubstituteTeacher</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.InfantTeacher</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.IDaycareTeacher</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.DaycareTeacher</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem1.HrManagementSystem</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="375.5" y="551.6666666666666" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.neu.khoury.cs5004.problem2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.neu.khoury.cs5004.problem2</OriginalElement>
+          <nodes>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.TooManyFloorsException</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.Cleaning</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.WindowCleaning</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.Exterior</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.PropertySize</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.Gardening</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.Service</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.Interior</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.IService</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.Painting</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.InvoiceSystem</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.WindowCleaningTest</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem2.PaintingTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.40000000000000013" x="297.9999999999998" y="699.9999999999998" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.neu.khoury.cs5004.problem3">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.neu.khoury.cs5004.problem3</OriginalElement>
+          <nodes>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.ITheater</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.IReservationSystem</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.SeatTest</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.IRow</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.Seat</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.ReservationSystem</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.RowTest</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.Row</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.ISeat</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.Theater</node>
+            <node x="" y="">edu.neu.khoury.cs5004.problem3.TheaterTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="516.9999999999998" y="561.2857142857142" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

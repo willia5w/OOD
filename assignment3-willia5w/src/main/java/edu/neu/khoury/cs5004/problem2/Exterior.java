@@ -3,11 +3,13 @@ package edu.neu.khoury.cs5004.problem2;
 import java.util.Objects;
 
 public abstract class Exterior extends Service {
-  private static final Integer BASE_RATE = 80;
+  private static final Double BASE_RATE = 80.0;
+  private static final Double TWO_HOURS = 2.0;
+  private static final Double FOUR_HOURS = 4.0;
   private Integer month;
 
-  public Exterior(Integer BASE_RATE, String invoiceID, String propertyAddress, Boolean monthly, Integer timesServiced, Double priceOfService, Integer month) {
-    super(BASE_RATE, invoiceID, propertyAddress, monthly, timesServiced, priceOfService);
+  public Exterior(String invoiceID, String propertyAddress, Boolean monthly, Integer timesServiced, Double priceOfService, Integer month) {
+    super(invoiceID, propertyAddress, monthly, timesServiced, priceOfService);
     this.month = month;
   }
 
@@ -34,9 +36,11 @@ public abstract class Exterior extends Service {
     switch (propertySize) {
       case small:
       case medium:
-        priceOfService = BASE_RATE * 2.0;
+        priceOfService = BASE_RATE * TWO_HOURS;
+        break;
       case large:
-        priceOfService = BASE_RATE * 4.0;
+        priceOfService = BASE_RATE * FOUR_HOURS;
+        break;
     }
   }
 }
