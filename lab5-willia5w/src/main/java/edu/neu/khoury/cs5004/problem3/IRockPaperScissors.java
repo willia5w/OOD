@@ -2,6 +2,18 @@ package edu.neu.khoury.cs5004.problem3;
 
 public interface  IRockPaperScissors {
 
-// Any rock, paper, or scissors can take any other as an argument
+    Boolean winOrLoss(RockPaperScissors other);
+
+
+    Boolean winOrLoss2(RockPaperScissors other);
+
+
+    Boolean winOrLoss2(Rock rock);
+
+    Boolean winOrLoss2(Paper paper);
+
+    Boolean winOrLoss2(Scissors scissors);
+
+
 
 }

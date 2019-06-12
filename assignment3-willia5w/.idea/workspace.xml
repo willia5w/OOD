@@ -2,37 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c76e92-0e78-4779-a0be-1b1462e64340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IReservationSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ISeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ITheater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/ReservationSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/InfantTeacherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/PaintingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/WindowCleaningTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/RowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/SeatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/TheaterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HrManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HrManagementSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IDaycareTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IDaycareTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InfantTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InfantTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PreschoolTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PreschoolTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ToddlerTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ToddlerTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Cleaning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Exterior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Exterior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Gardening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Interior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Painting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Painting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/PropertySize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/PropertySize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TooManyFloorsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Row.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Row.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Seat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Theater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/khoury/cs5004/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/neu/khoury/cs5004/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -117,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="570">
+              <caret line="40" column="45" lean-forward="true" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
               <folding>
                 <element signature="e#798#799#0" expanded="true" />
                 <element signature="e#824#825#0" expanded="true" />
@@ -450,16 +419,15 @@
       <updated>1559780971027</updated>
       <workItem from="1559780975986" duration="6509000" />
       <workItem from="1559869631575" duration="522000" />
-      <workItem from="1559942877318" duration="52334000" />
+      <workItem from="1559942877318" duration="53391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59365000" />
+    <option name="totallyTimeSpent" value="60422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -1007,8 +975,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/WindowCleaning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="570">
+          <caret line="40" column="45" lean-forward="true" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
           <folding>
             <element signature="e#798#799#0" expanded="true" />
             <element signature="e#824#825#0" expanded="true" />

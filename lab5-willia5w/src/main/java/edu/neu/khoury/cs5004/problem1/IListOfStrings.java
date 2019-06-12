@@ -22,63 +22,62 @@ public interface IListOfStrings {
    * Checks for duplicates.
    *
    * Eliminates duplicates.
+   *
    */
 
   /**
    * Checks whether or not the list is empty.
    * @return
    */
-  public Boolean isEmpty() {
-    if (this.)
-
-  }
+  Boolean isEmpty();
 
   /**
    * Gets the total number of elements in the list
    * @return
    */
-  public Integer size(List <String>) {
-    return 1 + next.size();
-  }
+   Integer size(List <String>);
 
   /**
    * Consumes a String, and checks if the String is in the list or not.
    * @return
    */
-  public Boolean contains(String) {
-
-  }
+  Boolean contains(String);
 
   /**
    * Consumes another list of Strings, and checks that all elements
    * of this list are in the list passed as argument.
    * @return
    */
-  public Boolean containsAll(String) {
-
-  }
+  Boolean containsAll(String);
 
   /**
    * takes the maximum String length, and returns a list
    * with all elements whose length is greater than the maximum length removed.
    */
-  public arrList filterLargerThan(Integer stringLength) {
-
-  }
+  ArrayList filterLargerThan(Integer stringLength);
 
   /**
    * Check if the list has at least one duplicate element.
    * @return
    */
-  public Boolean hasDuplicates(String) {
-
-  }
+  Boolean hasDuplicates(String);
 
   /**
    * Returns the list with all duplicates removed.
    * @return
    */
-  public arrList removeDuplicates(arrList ) {
+  ArrayList removeDuplicates(ArrayList checkList);
 
-  }
+  /**
+   * Test is 2 objects are equal:
+   * --Use abstractFactory and create a (AbstractClass)TestObject class in Test folder.
+   * with "wrongVariable" for each variable for full coverage
+   * of equals Test.
+   * Reflexive
+   * Transitive
+   *
+   * @param o
+   * @return
+   */
+  boolean equals(Object o);
 }
