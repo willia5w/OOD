@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>EmptyPolynomial.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">CS5004 Assignment</a> &gt; <a href="index.source.html" class="el_package">edu.neu.khoury.cs5004.problem2</a> &gt; <span class="el_source">EmptyPolynomial.java</span></div><h1>EmptyPolynomial.java</h1><pre class="source lang-java linenums">package edu.neu.khoury.cs5004.problem2;
+
+import java.util.Objects;
+
+/**
+ * Represents an empty polynomial.
+ *
+ */
+public class EmptyPolynomial implements IPolynomial{
+
+  /**
+   * Creates an empty polynomial.
+   *
+   */
+<span class="fc" id="L15">  public EmptyPolynomial() {</span>
+
+<span class="fc" id="L17">  }</span>
+
+  /**
+   * Compares two polynomials to see if they are the same.
+   * @param comparisonPolynomial a polynomial for comparison
+   * @return true if the two polynomials are the same.
+   */
+  public Boolean isSame(EmptyPolynomial comparisonPolynomial) {
+<span class="pc bpc" id="L25" title="1 of 2 branches missed.">    if (equals(comparisonPolynomial)) {</span>
+<span class="fc" id="L26">      return true;</span>
+    } else {
+<span class="nc" id="L28">      return false;</span>
+    }
+  }
+
+  @Override
+  public IPolynomial addTerm(Double coefficient, Double power) {
+<span class="fc" id="L34">      return new Polynomial(coefficient, power, this);</span>
+  }
+
+  @Override
+  public IPolynomial removeTerm(Double power) {
+<span class="fc" id="L39">    return this;</span>
+  }
+
+  @Override
+  public Double getDegree() {
+<span class="fc" id="L44">    return 0.0;</span>
+  }
+
+  @Override
+  public Double getCoefficient(Double power) {
+<span class="fc" id="L49">    return 0.0;</span>
+  }
+
+  @Override
+  public Boolean isSame(Polynomial comparisonPolynomial) {
+<span class="fc" id="L54">    return comparisonPolynomial.getClass().equals(EmptyPolynomial.class);</span>
+  }
+
+  @Override
+  public Double evaluate(Double x) {
+<span class="fc" id="L59">    return 0.0;</span>
+  }
+
+  @Override
+  public IPolynomial add(IPolynomial poly) {
+<span class="fc" id="L64">    return new Polynomial(poly.getCoefficient(poly.getDegree()), poly.getDegree(), new EmptyPolynomial());</span>
+  }
+
+  @Override
+  public IPolynomial multiply(IPolynomial poly) {
+<span class="fc" id="L69">    return new Polynomial(poly.getCoefficient(poly.getDegree()), poly.getDegree(), new EmptyPolynomial());</span>
+  }
+
+  @Override
+  public boolean equals(Object o) {
+<span class="fc bfc" id="L74" title="All 2 branches covered.">    if (this == o) return true;</span>
+<span class="pc bpc" id="L75" title="1 of 2 branches missed.">    if (!(o instanceof EmptyPolynomial)) {</span>
+<span class="nc" id="L76">      return false;</span>
+    } else {
+<span class="fc" id="L78">      return true;</span>
+    }
+  }
+  @Override
+  public int hashCode(Object obj) {
+<span class="nc" id="L83">    return Objects.hash();</span>
+  }
+
+  @Override
+  public String toString() {
+<span class="fc" id="L88">    return &quot;&quot;;</span>
+  }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.6.201602180812</span></div></body></html>

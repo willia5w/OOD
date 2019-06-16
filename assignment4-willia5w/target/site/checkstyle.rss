@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2019</copyright>
     <item>
-      <title>File: 1,
+      <title>File: 9,
              Errors: 0,
-             Warnings: 7,
+             Warnings: 53,
              Infos: 0
       </title>
             <link>${project.url}/checkstyle.html</link>
@@ -46,13 +46,125 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.App.java">edu/neu/khoury/cs5004/App.java</a>
+                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.problem1.PairEmptyException.java">edu/neu/khoury/cs5004/problem1/PairEmptyException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.problem1.PairAlreadyInitialized.java">edu/neu/khoury/cs5004/problem1/PairAlreadyInitialized.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.problem2.Polynomial.java">edu/neu/khoury/cs5004/problem2/Polynomial.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
                   7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.problem1.InvalidUsernameException.java">edu/neu/khoury/cs5004/problem1/InvalidUsernameException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.problem2.IPolynomial.java">edu/neu/khoury/cs5004/problem2/IPolynomial.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.problem2.Term.java">edu/neu/khoury/cs5004/problem2/Term.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.problem1.UserPassPair.java">edu/neu/khoury/cs5004/problem1/UserPassPair.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  14
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.problem1.IUserPassPair.java">edu/neu/khoury/cs5004/problem1/IUserPassPair.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#edu.neu.khoury.cs5004.problem2.EmptyPolynomial.java">edu/neu/khoury/cs5004/problem2/EmptyPolynomial.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
                 </td>
                 <td>
                   0

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>UserPassPair.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">CS5004 Assignment</a> &gt; <a href="index.source.html" class="el_package">edu.neu.khoury.cs5004.problem1</a> &gt; <span class="el_source">UserPassPair.java</span></div><h1>UserPassPair.java</h1><pre class="source lang-java linenums">package edu.neu.khoury.cs5004.problem1;
+
+import java.util.Objects;
+
+/**
+ * Represents a Username Password pair.
+ *
+ */
+public class UserPassPair implements IUserPassPair{
+  private String username;
+  private String password;
+
+  /**
+   * Creates a new UserPassPair given a username and password.
+   *
+   * @param username the username of the UserPassPair.
+   * @param password the password of the UserPassPair.
+   */
+<span class="fc" id="L19">  public UserPassPair(String username, String password) {</span>
+<span class="fc" id="L20">    this.username = username;</span>
+<span class="fc" id="L21">    this.password = password;</span>
+<span class="fc" id="L22">  }</span>
+
+  /**
+   * Creates an empty UserPassPair
+   */
+<span class="fc" id="L27">  public UserPassPair() {</span>
+<span class="fc" id="L28">  }</span>
+  /**
+   * Creates an empty UserPassPair.
+   * @return a new empty UserPassPair
+   */
+  @Override
+  public UserPassPair createEmpty() {
+<span class="fc" id="L35">    return new UserPassPair();</span>
+  }
+  /**
+   * Returns whether or not a UserPassPair is empty.
+   * @return true if UserPassPair is empty, false otherwise
+   */
+  @Override
+  public Boolean isEmpty() {
+<span class="fc bfc" id="L43" title="All 2 branches covered.">    if (this.username == null) {</span>
+<span class="fc" id="L44">      return true;</span>
+    } else {
+<span class="fc" id="L46">      return false;</span>
+    }
+  }
+  /**
+   * Sets up Username and Password for an empty UserPassPair.
+   * @param u Username
+   * @param p Password
+   * @return a new Non-Empty UserPassPair if previously empty
+   * @throws PairAlreadyInitialized if UserPassPair is Non-Empty
+   */
+  @Override
+  public UserPassPair add(String u, String p) throws PairAlreadyInitialized {
+<span class="fc bfc" id="L58" title="All 2 branches covered.">    if (isEmpty()) {</span>
+<span class="fc" id="L59">      return new UserPassPair(u, p);</span>
+    } else {
+<span class="fc" id="L61">      throw new PairAlreadyInitialized();</span>
+    }
+  }
+  /**
+   * Replace current UserName and Password with new ones.
+   * @param u Replacement UserName
+   * @param p Replacement Password
+   * @return a new UserPassPair with updated values
+   * @throws PairEmptyException if the UserPassPair is empty
+   */
+  @Override
+  public UserPassPair replace(String u, String p) throws PairEmptyException {
+<span class="fc bfc" id="L73" title="All 2 branches covered.">    if (isEmpty()) {</span>
+<span class="fc" id="L74">      throw new PairEmptyException();</span>
+    } else {
+<span class="fc" id="L76">      return new UserPassPair(u, p);</span>
+    }
+  }
+  /**
+   * Retunrs a new empty UserPassPair.
+   * @param x UserName of the UserPassPair user is looking to delete
+   * @return an empty UserPassPair if currently empty or if there is a UserName match
+   * @throws InvalidUsernameException if the UserName is not empty but there is no match
+   */
+  @Override
+  public UserPassPair delete(String x) throws InvalidUsernameException {
+<span class="fc bfc" id="L87" title="All 2 branches covered.">    if (isEmpty()) {</span>
+<span class="fc" id="L88">      return createEmpty();</span>
+<span class="fc bfc" id="L89" title="All 2 branches covered.">    } else if (this.username == x) {</span>
+<span class="fc" id="L90">      return createEmpty();</span>
+    } else {
+<span class="fc" id="L92">      throw new InvalidUsernameException();</span>
+    }
+  }
+  /**
+   * Returns corresponding Password matching UserPassPair.
+   *
+   * @param x UserName of the UserPassPair you wish to get the Password from
+   * @return the Password of the matched UserPassPair
+   * @throws PairEmptyException if called on an empty UserPassPair
+   * @throws InvalidUsernameException if UserPassPair is Non-Empty but UserName does not match
+   */
+  @Override
+  public String getPassword(String x) throws PairEmptyException, InvalidUsernameException {
+<span class="fc bfc" id="L105" title="All 2 branches covered.">    if (isEmpty()) {</span>
+<span class="fc" id="L106">      throw new PairEmptyException();</span>
+<span class="fc bfc" id="L107" title="All 2 branches covered.">    } else if (this.username == x) {</span>
+<span class="fc" id="L108">      return this.password;</span>
+    } else {
+<span class="fc" id="L110">      throw new InvalidUsernameException();</span>
+    }
+  }
+  /**
+   * Returns true if two UserPassPair are equal.
+   * @param o a comparison UserPassPair
+   * @return true if equal, false otherwise
+   */
+  @Override
+  public boolean equals(Object o) {
+<span class="pc bpc" id="L120" title="1 of 2 branches missed.">    if (this == o) return true;</span>
+<span class="pc bpc" id="L121" title="1 of 2 branches missed.">    if (!(o instanceof UserPassPair)) return false;</span>
+<span class="fc" id="L122">    UserPassPair that = (UserPassPair) o;</span>
+<span class="pc bpc" id="L123" title="1 of 2 branches missed.">    return Objects.equals(username, that.username) &amp;&amp;</span>
+<span class="pc bpc" id="L124" title="1 of 2 branches missed.">        Objects.equals(password, that.password);</span>
+  }
+
+  /**
+   * Return the hash code of a UserPassPair.
+   *
+   * @param obj a UserPassPair
+   * @return an integer representation of a UserPassPair
+   */
+  @Override
+  public int hashCode(Object obj) {
+<span class="nc" id="L135">    return 0;</span>
+  }
+
+  /**
+   * Return the hash code of a UserPassPair.
+   *
+   * @return an integer representation of a UserPassPair
+   */
+  @Override
+  public int hashCode() {
+<span class="nc" id="L145">    return Objects.hash(username, password);</span>
+  }
+
+  /**
+   * Return a string representation of a UserPassPair.
+   *
+   * @return String representation of a UserPassPair
+   */
+  @Override
+  public String toString() {
+<span class="fc" id="L155">    return &quot;UserPassPair{&quot; +</span>
+        &quot;username='&quot; + username + '\'' +
+        &quot;, password='&quot; + password + '\'' +
+        '}';
+  }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.6.201602180812</span></div></body></html>

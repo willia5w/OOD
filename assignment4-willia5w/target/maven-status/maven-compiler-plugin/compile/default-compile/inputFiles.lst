@@ -1,1 +1,9 @@
-/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/App.java
+/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/UserPassPair.java
+/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/Polynomial.java
+/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/PairEmptyException.java
+/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/Term.java
+/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/IUserPassPair.java
+/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/EmptyPolynomial.java
+/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/IPolynomial.java
+/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/PairAlreadyInitialized.java
+/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/InvalidUsernameException.java

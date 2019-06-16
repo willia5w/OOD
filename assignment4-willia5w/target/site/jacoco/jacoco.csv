@@ -1,2 +1,8 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-CS5004 Assignment,edu.neu.khoury.cs5004,App,7,0,0,0,3,0,2,0,2,0
+CS5004 Assignment,edu.neu.khoury.cs5004.problem1,PairAlreadyInitialized,0,4,0,0,0,2,0,1,0,1
+CS5004 Assignment,edu.neu.khoury.cs5004.problem1,InvalidUsernameException,0,4,0,0,0,2,0,1,0,1
+CS5004 Assignment,edu.neu.khoury.cs5004.problem1,UserPassPair,21,135,4,18,2,32,6,17,2,10
+CS5004 Assignment,edu.neu.khoury.cs5004.problem1,PairEmptyException,0,4,0,0,0,2,0,1,0,1
+CS5004 Assignment,edu.neu.khoury.cs5004.problem2,Polynomial,74,208,13,13,7,29,11,14,0,12
+CS5004 Assignment,edu.neu.khoury.cs5004.problem2,Term,3,0,0,0,1,0,1,0,1,0
+CS5004 Assignment,edu.neu.khoury.cs5004.problem2,EmptyPolynomial,9,72,2,4,3,16,3,13,1,12

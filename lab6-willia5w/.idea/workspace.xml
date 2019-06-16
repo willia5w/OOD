@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e429d001-afbf-4e21-91fb-4339806aa6ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/EmptyPolynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/test/java/edu/neu/khoury/cs5004/problem1/UserPassPairTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/test/java/edu/neu/khoury/cs5004/problem2/EmptyPolynomialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/test/java/edu/neu/khoury/cs5004/problem2/PolynomialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6-willia5w.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/EmptyBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/IBagOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/tedBagOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem3/Posn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem1/EmptyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTestObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/IUserPassPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/IUserPassPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/InvalidUsernameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/InvalidUsernameException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/PairAlreadyInitialized.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/PairAlreadyInitialized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/PairEmptyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/PairEmptyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/UserPassPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/UserPassPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/IPolynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/IPolynomial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/Polynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/Polynomial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/src/test/java/edu/neu/khoury/cs5004/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/checkstyle-result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/classes/edu/neu/khoury/cs5004/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/findbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/findbugsXml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/pmd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/App.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/class-use/App.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/apidocs/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/checkstyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/checkstyle.rss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/dependencies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/dependency-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/distribution-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/distribution-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/findbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/findbugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/findbugs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/findbugs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/integration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/issue-tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/issue-tracking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/.sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/.sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/edu.neu.khoury.cs5004/App.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/edu.neu.khoury.cs5004/App.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/edu.neu.khoury.cs5004/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/edu.neu.khoury.cs5004/index.source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/jacoco.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/mail-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/mail-lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/plugin-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/pmd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/pmd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/project-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/project-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/project-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/project-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/source-repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/source-repository.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/team-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/team-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref-test/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref-test/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref-test/edu/neu/khoury/cs5004/AppTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref-test/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref-test/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref-test/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref-test/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref-test/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref-test/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref/edu/neu/khoury/cs5004/App.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4-willia5w/target/site/xref/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/surefire-reports/TEST-edu.neu.khoury.cs5004.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/surefire-reports/edu.neu.khoury.cs5004.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4-willia5w/target/test-classes/edu/neu/khoury/cs5004/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/IBagOfWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding>
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/tedBagOfWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/Word.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+              <folding>
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem3/Posn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+              <folding>
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTestObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10">
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/EmptyBag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/IBagOfWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/Empty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/tedBagOfWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/Word.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem1/EmptyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTestObject.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem3/Posn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/EmptyBag.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CS5004 Assignment" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="720" />
+    <option name="y" value="23" />
+    <option name="width" value="720" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.neu.ccs.cs5004.problem3" />
+      <recent name="edu.neu.ccs.cs5004.problem1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.neu.ccs.cs5004.problem3" />
+      <recent name="edu.neu.ccs.cs5004.problem1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e429d001-afbf-4e21-91fb-4339806aa6ef" name="Default Changelist" comment="" />
+      <created>1560389890884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560389890884</updated>
+      <workItem from="1560389897249" duration="6696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6696000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="720" y="23" width="720" height="877" extended-state="1" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40855458" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24968153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" weight="0.32890856" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21387696" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.24968153" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32890856" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/IBagOfWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/tedBagOfWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem1/EmptyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem3/Posn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+          <folding>
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTestObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/ccs/cs5004/problem1/EmptyBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

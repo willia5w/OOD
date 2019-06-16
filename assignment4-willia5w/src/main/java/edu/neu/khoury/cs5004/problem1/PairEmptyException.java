@@ -1,13 +1,13 @@
 package edu.neu.khoury.cs5004.problem1;
 
-import com.sun.javaws.exceptions.InvalidArgumentException;
 
 /**
  * Thrown if UserPassPair is empty.
  */
 public class PairEmptyException extends Exception {
+  private static final String message = "Error: Pair Empty.";
 
-  public PairEmptyException (String message) {
+  public PairEmptyException () {
     super(message);
   }
 }

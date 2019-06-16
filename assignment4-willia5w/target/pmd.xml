@@ -1,3 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="5.3.5" timestamp="2019-06-09T13:13:40.405">
+<pmd version="5.3.5" timestamp="2019-06-16T11:54:30.538">
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/IUserPassPair.java">
+<violation beginline="46" endline="46" begincolumn="37" endcolumn="37" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="IUserPassPair" method="add" variable="p" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p
+</violation>
+<violation beginline="46" endline="46" begincolumn="27" endcolumn="27" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="IUserPassPair" method="add" variable="u" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like u
+</violation>
+<violation beginline="56" endline="56" begincolumn="41" endcolumn="41" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="IUserPassPair" method="replace" variable="p" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p
+</violation>
+<violation beginline="56" endline="56" begincolumn="31" endcolumn="31" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="IUserPassPair" method="replace" variable="u" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like u
+</violation>
+<violation beginline="64" endline="64" begincolumn="30" endcolumn="30" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="IUserPassPair" method="delete" variable="x" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="74" endline="74" begincolumn="29" endcolumn="29" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="IUserPassPair" method="getPassword" variable="x" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like x
+</violation>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/InvalidUsernameException.java">
+<violation beginline="7" endline="7" begincolumn="31" endcolumn="37" rule="VariableNamingConventions" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="InvalidUsernameException" variable="message" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#VariableNamingConventions" priority="1">
+Variables that are final and static should be all capitals, 'message' is not all capitals.
+</violation>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/PairAlreadyInitialized.java">
+<violation beginline="7" endline="7" begincolumn="31" endcolumn="37" rule="VariableNamingConventions" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="PairAlreadyInitialized" variable="message" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#VariableNamingConventions" priority="1">
+Variables that are final and static should be all capitals, 'message' is not all capitals.
+</violation>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/PairEmptyException.java">
+<violation beginline="8" endline="8" begincolumn="31" endcolumn="37" rule="VariableNamingConventions" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="PairEmptyException" variable="message" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#VariableNamingConventions" priority="1">
+Variables that are final and static should be all capitals, 'message' is not all capitals.
+</violation>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/UserPassPair.java">
+<violation beginline="57" endline="57" begincolumn="44" endcolumn="44" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="UserPassPair" method="add" variable="p" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p
+</violation>
+<violation beginline="57" endline="57" begincolumn="34" endcolumn="34" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="UserPassPair" method="add" variable="u" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like u
+</violation>
+<violation beginline="72" endline="72" begincolumn="48" endcolumn="48" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="UserPassPair" method="replace" variable="p" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p
+</violation>
+<violation beginline="72" endline="72" begincolumn="38" endcolumn="38" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="UserPassPair" method="replace" variable="u" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like u
+</violation>
+<violation beginline="86" endline="86" begincolumn="37" endcolumn="37" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="UserPassPair" method="delete" variable="x" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="104" endline="104" begincolumn="36" endcolumn="36" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="UserPassPair" method="getPassword" variable="x" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="119" endline="119" begincolumn="32" endcolumn="32" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem1" class="UserPassPair" method="equals" variable="o" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o
+</violation>
+<violation beginline="120" endline="120" begincolumn="5" endcolumn="31" rule="IfStmtsMustUseBraces" ruleset="Braces" package="edu.neu.khoury.cs5004.problem1" class="UserPassPair" method="equals" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="121" endline="121" begincolumn="5" endcolumn="51" rule="IfStmtsMustUseBraces" ruleset="Braces" package="edu.neu.khoury.cs5004.problem1" class="UserPassPair" method="equals" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/EmptyPolynomial.java">
+<violation beginline="58" endline="58" begincolumn="33" endcolumn="33" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem2" class="EmptyPolynomial" method="evaluate" variable="x" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="73" endline="73" begincolumn="32" endcolumn="32" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem2" class="EmptyPolynomial" method="equals" variable="o" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o
+</violation>
+<violation beginline="73" endline="73" begincolumn="18" endcolumn="33" rule="OverrideBothEqualsAndHashcode" ruleset="Basic" package="edu.neu.khoury.cs5004.problem2" class="EmptyPolynomial" method="equals" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/basic.html#OverrideBothEqualsAndHashcode" priority="3">
+Ensure you override both equals() and hashCode()
+</violation>
+<violation beginline="74" endline="74" begincolumn="5" endcolumn="31" rule="IfStmtsMustUseBraces" ruleset="Braces" package="edu.neu.khoury.cs5004.problem2" class="EmptyPolynomial" method="equals" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/IPolynomial.java">
+<violation beginline="71" endline="71" begincolumn="26" endcolumn="26" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem2" class="IPolynomial" method="evaluate" variable="x" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like x
+</violation>
+</file>
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment4-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/Polynomial.java">
+<violation beginline="71" endline="71" begincolumn="33" endcolumn="33" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem2" class="Polynomial" method="evaluate" variable="x" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="134" endline="134" begincolumn="32" endcolumn="32" rule="ShortVariable" ruleset="Naming" package="edu.neu.khoury.cs5004.problem2" class="Polynomial" method="equals" variable="o" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o
+</violation>
+<violation beginline="134" endline="134" begincolumn="18" endcolumn="33" rule="OverrideBothEqualsAndHashcode" ruleset="Basic" package="edu.neu.khoury.cs5004.problem2" class="Polynomial" method="equals" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/basic.html#OverrideBothEqualsAndHashcode" priority="3">
+Ensure you override both equals() and hashCode()
+</violation>
+<violation beginline="135" endline="135" begincolumn="5" endcolumn="31" rule="IfStmtsMustUseBraces" ruleset="Braces" package="edu.neu.khoury.cs5004.problem2" class="Polynomial" method="equals" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="136" endline="136" begincolumn="5" endcolumn="49" rule="IfStmtsMustUseBraces" ruleset="Braces" package="edu.neu.khoury.cs5004.problem2" class="Polynomial" method="equals" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+</file>
 </pmd>

@@ -1,1 +1,9 @@
-edu/neu/khoury/cs5004/App.class
+edu/neu/khoury/cs5004/problem2/EmptyPolynomial.class
+edu/neu/khoury/cs5004/problem2/Term.class
+edu/neu/khoury/cs5004/problem2/Polynomial.class
+edu/neu/khoury/cs5004/problem1/PairAlreadyInitialized.class
+edu/neu/khoury/cs5004/problem1/UserPassPair.class
+edu/neu/khoury/cs5004/problem2/IPolynomial.class
+edu/neu/khoury/cs5004/problem1/PairEmptyException.class
+edu/neu/khoury/cs5004/problem1/IUserPassPair.class
+edu/neu/khoury/cs5004/problem1/InvalidUsernameException.class
