@@ -1,23 +1,25 @@
 package edu.neu.ccs.cs5004.problem1;
 
-public class IBagOfWords {
+public interface IBagOfWords {
 
   /**
    * A BagOfWords can be a :
    *
-   * - Word
+   * - TedBag
    * - Empty
    *
-   * A Word has a:
+   * A TedBag has a:
    *
    * - String val
    * - IBagOfWords next
    *
    */
 
-  static IBagOfWords emptyBagOfWords() {
-    return new EmptyBag();
-  }
+  /**
+   * Returns an empty bag of words.
+   * @return an empty bag of words
+   */
+  IBagOfWords emptyBagOfWords();
   /**
    * Returns true if called on an empty BagOfWords with no tedBag
    * @return true or false

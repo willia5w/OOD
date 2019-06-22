@@ -25,7 +25,7 @@ public class EmptyTest {
 
   @Test
   public void add() {
-    assertEquals(new Word(s, empty), empty.add(s));
+    assertEquals(new TedBag(s, empty), empty.add(s));
   }
 
   @Test

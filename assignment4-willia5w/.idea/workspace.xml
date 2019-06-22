@@ -2,106 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c76e92-0e78-4779-a0be-1b1462e64340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/EmptyPolynomial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Term.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/UserPassPairTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/EmptyPolynomialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/PolynomialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/lab6-willia5w.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/EmptyBag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/IBagOfWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/tedBagOfWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem3/Posn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/src/test/java/edu/neu/ccs/cs5004/problem1/EmptyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTestObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6-willia5w/src/test/java/edu/neu/ccs/cs5004/problem2/FleetManagerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IUserPassPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/IUserPassPair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InvalidUsernameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/InvalidUsernameException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PairAlreadyInitialized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PairAlreadyInitialized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PairEmptyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/PairEmptyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/UserPassPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/UserPassPair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/IPolynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/IPolynomial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Polynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Polynomial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/khoury/cs5004/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/findbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/findbugsXml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/pmd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/class-use/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.rss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/distribution-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/distribution-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/findbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/findbugs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/findbugs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/findbugs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/integration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/issue-tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/issue-tracking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/App.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/index.source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/license.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/mail-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/mail-lists.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/pmd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/pmd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/source-repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/source-repository.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/team-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/team-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/edu/neu/khoury/cs5004/AppTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/overview-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/khoury/cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/overview-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.khoury.cs5004.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.neu.khoury.cs5004.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/neu/khoury/cs5004/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-willia5w/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/EmptyBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/EmptyBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/IBagOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/IBagOfWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/TedBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/tedBagOfWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Boat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/FleetManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/FleetManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/IFleetManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/IFleetManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/IVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/IVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/TripReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/TripReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/test/java/edu/neu/ccs/cs5004/problem1/EmptyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/test/java/edu/neu/ccs/cs5004/problem1/EmptyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-willia5w/src/test/java/edu/neu/ccs/cs5004/problem3/PosnTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/target/classes/edu/neu/ccs/cs5004/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6-willia5w/target/test-classes/edu/neu/ccs/cs5004/AppTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -116,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Polynomial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2220">
-              <caret line="148" column="5" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+            <state relative-caret-position="438">
+              <caret line="85" column="54" lean-forward="true" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
               <folding>
                 <element signature="e#1615#1616#0" expanded="true" />
                 <element signature="e#1687#1688#0" expanded="true" />
@@ -142,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/EmptyPolynomial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="e#544#545#0" expanded="true" />
                 <element signature="e#603#604#0" expanded="true" />
@@ -283,10 +203,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="720" />
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
-    <option name="width" value="720" />
+    <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -557,7 +476,7 @@
       <workItem from="1559869631575" duration="522000" />
       <workItem from="1559942877318" duration="53391000" />
       <workItem from="1560111184801" duration="14013000" />
-      <workItem from="1560394393363" duration="38395000" />
+      <workItem from="1560394393363" duration="39174000" />
     </task>
     <servers />
   </component>
@@ -594,17 +513,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112830000" />
+    <option name="totallyTimeSpent" value="113609000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="1" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28040057" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3299363" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -615,7 +534,7 @@
       <window_info anchor="bottom" id="CheckStyle" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.42802548" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.03821656" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -623,7 +542,7 @@
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.20100144" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.20100144" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
@@ -916,25 +835,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Polynomial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2220">
-          <caret line="148" column="5" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
-          <folding>
-            <element signature="e#1615#1616#0" expanded="true" />
-            <element signature="e#1687#1688#0" expanded="true" />
-            <element signature="e#2356#2357#0" expanded="true" />
-            <element signature="e#2383#2384#0" expanded="true" />
-            <element signature="e#2776#2777#0" expanded="true" />
-            <element signature="e#2845#2846#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/EmptyPolynomial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="e#544#545#0" expanded="true" />
             <element signature="e#603#604#0" expanded="true" />
@@ -950,6 +854,21 @@
             <element signature="e#1452#1453#0" expanded="true" />
             <element signature="e#1525#1526#0" expanded="true" />
             <element signature="e#1561#1562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/Polynomial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="85" column="54" lean-forward="true" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+          <folding>
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1687#1688#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2383#2384#0" expanded="true" />
+            <element signature="e#2776#2777#0" expanded="true" />
+            <element signature="e#2845#2846#0" expanded="true" />
           </folding>
         </state>
       </provider>

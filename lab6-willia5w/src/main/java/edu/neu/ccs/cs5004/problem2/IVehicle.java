@@ -1,4 +1,4 @@
-package edu.neu.khoury.cs5004.problem2;
+package edu.neu.ccs.cs5004.problem2;
 
 public interface IVehicle {
 

@@ -1,10 +1,10 @@
 package edu.neu.ccs.cs5004.problem1;
 
-public class Word implements IBagOfWords {
+public class TedBag implements IBagOfWords {
   private String val;
   private IBagOfWords next;
 
-  public Word(String val, IBagOfWords next) {
+  public TedBag(String val, IBagOfWords next) {
     this.val = val;
     this.next = next;
   }
@@ -16,7 +16,9 @@ public class Word implements IBagOfWords {
   public IBagOfWords getNext() {
     return next;
   }
-
+  public IBagOfWords emptyBagOfWords(){
+    return new
+  }
   @Override
   Boolean isEmpty() {
     return false;
@@ -29,16 +31,11 @@ public class Word implements IBagOfWords {
 
   @Override
   IBagOfWords add(String s) {
-    return new Word(val, this);
+    return new TedBag(val, this);
   }
 
   @Override
   Boolean contains(String s) {
-//    if (val.equals(s)) {
-//      return true;
-//    } else {
-//      return next.contains(s);
-//    }
     return s.equals(val) ? true : next.contains(s);
   }
 }
