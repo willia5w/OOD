@@ -68,6 +68,7 @@ public abstract class Journalist extends  NewInfluencerTypes {
       throw new InfluenceEstimationException();
     } else {
       impact *= .85; // Journalist discount
+
     }
 
     if (twitterFlag == 1) {

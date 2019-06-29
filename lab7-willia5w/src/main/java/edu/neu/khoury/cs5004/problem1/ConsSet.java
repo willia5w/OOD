@@ -1,23 +1,19 @@
-package edu.neu.khoury.cs5004;
+package edu.neu.khoury.cs5004.problem1;
+
+import java.util.Objects;
 
 /**
- * Generic version of the aSet class.
+ * Generic version of the ConsSet class.
  * @param <T> the type of the value being boxed
  */
-public class aSet<T> implements ISet{
+public class ConsSet<T> implements ISet<T> {
   private T value;
   private ISet next;
 
-  public aSet(T value, ISet next) {
+  public ConsSet(T value, ISet next) {
     this.value = value;
     this.next = next;
   }
-
-  //  private T t;
-  //
-  //  public void set(T t) { this.t = t; }
-  //  public T get() { return t; }
-
 
   /**
    * Returns an empty set.
@@ -26,7 +22,7 @@ public class aSet<T> implements ISet{
    */
   @Override
   public ISet emptySet() {
-    return new EmptySet(null);
+    return new EmptySet<T>();
   }
 
   /**
@@ -53,9 +49,9 @@ public class aSet<T> implements ISet{
    * @return a new set
    */
   @Override
-  public aSet add(Object n) {
+  public ConsSet add(Object n) {
     if (!this.contains(n)) {
-      aSet newSet = new aSet(n, this);
+      ConsSet newSet = new ConsSet(n, this);
       return newSet;
     } else {
       return this;
@@ -72,7 +68,7 @@ public class aSet<T> implements ISet{
    */
   @Override
   public Boolean contains(Object n) {
-    if (this.next.getClass() == EmptySet.class && this.value.equals(n)) {
+    if (this.value.equals(n)) {
         return true;
     } else if (this.next.getClass() != EmptySet.class && !this.value.equals(n)) {
       this.next.contains(n);
@@ -91,7 +87,7 @@ public class aSet<T> implements ISet{
   @Override
   public ISet remove(Object n) {
     if (this.next.getClass() == EmptySet.class && this.value.equals(n)) {
-      return new EmptySet(null);
+      return new EmptySet<T>();
     } else if (this.next.getClass() != EmptySet.class && !this.value.equals(n)) {
       this.next.remove(n);
     }
@@ -113,7 +109,31 @@ public class aSet<T> implements ISet{
     if (this.next.getClass() != EmptySet.class) {
       count++;
       this.next.size();
+    } else {
+      count += 1;
     }
     return count;
+  }
+
+  @Override
+  public String toString() {
+    return "ConsSet{" +
+        "value=" + value +
+        ", next=" + next +
+        '}';
+  }
+
+  @Override
+  public boolean equals(Object o) {
+    if (this == o) return true;
+    if (!(o instanceof ConsSet)) return false;
+    ConsSet <?> consSet = (ConsSet <?>) o;
+    return value.equals(consSet.value) &&
+        next.equals(consSet.next);
+  }
+
+  @Override
+  public int hashCode() {
+    return Objects.hash(value, next);
   }
 }

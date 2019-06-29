@@ -1,6 +1,12 @@
 package edu.neu.ccs.cs5004.problem1;
 
+import java.time.LocalDate;
+
 public abstract class NewInfluencerTypes extends Influencer {
+
+  public NewInfluencerTypes(Name name, LocalDate dateOfBirth, SocialMediaPlatforms[] platforms, Integer[] numberOfFollowers) {
+    super(name, dateOfBirth, platforms, numberOfFollowers);
+  }
 
   public Double estimateInfluence(Influencer influencer) throws InfluenceEstimationException {
     Integer numPlatforms = this.platforms.length;

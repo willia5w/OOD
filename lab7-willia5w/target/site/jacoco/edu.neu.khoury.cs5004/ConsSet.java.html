@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>ConsSet.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">CS5004 Assignment</a> &gt; <a href="index.source.html" class="el_package">edu.neu.khoury.cs5004</a> &gt; <span class="el_source">ConsSet.java</span></div><h1>ConsSet.java</h1><pre class="source lang-java linenums">package edu.neu.khoury.cs5004;
+
+import java.util.Objects;
+
+/**
+ * Generic version of the ConsSet class.
+ * @param &lt;T&gt; the type of the value being boxed
+ */
+public class ConsSet&lt;T&gt; implements ISet&lt;T&gt; {
+  private T value;
+  private ISet next;
+
+<span class="fc" id="L13">  public ConsSet(T value, ISet next) {</span>
+<span class="fc" id="L14">    this.value = value;</span>
+<span class="fc" id="L15">    this.next = next;</span>
+<span class="fc" id="L16">  }</span>
+
+  /**
+   * Returns an empty set.
+   *
+   * @return an empty set
+   */
+  @Override
+  public ISet emptySet() {
+<span class="nc" id="L25">    return new EmptySet&lt;T&gt;();</span>
+  }
+
+  /**
+   * Returns whether or not the set is empty.
+   *
+   * @return true if empty
+   */
+  @Override
+  public Boolean isEmpty() {
+<span class="nc" id="L35">    return false;</span>
+  }
+
+  /**
+   * Adds an element to a set.
+   * &lt;p&gt;
+   * Returns a new set containing element n if set was empty.
+   * &lt;p&gt;
+   * Returns a new set containing element n and elements previously
+   * in the set if set was previously non-empty.
+   * &lt;p&gt;
+   * Returns the same set if element n was already present.
+   *
+   * @param n element being added into set
+   * @return a new set
+   */
+  @Override
+  public ConsSet add(Object n) {
+<span class="nc bnc" id="L53" title="All 2 branches missed.">    if (!this.contains(n)) {</span>
+<span class="nc" id="L54">      ConsSet newSet = new ConsSet(n, this);</span>
+<span class="nc" id="L55">      return newSet;</span>
+    } else {
+<span class="nc" id="L57">      return this;</span>
+    }
+  }
+
+  /**
+   * Returns true if element contained in set.
+   * &lt;p&gt;
+   * Returns false if element not contained in set or set is empty.
+   *
+   * @param n element that user is searching for in the set
+   * @return true or false
+   */
+  @Override
+  public Boolean contains(Object n) {
+<span class="nc bnc" id="L71" title="All 2 branches missed.">    if (this.value.equals(n)) {</span>
+<span class="nc" id="L72">        return true;</span>
+<span class="nc bnc" id="L73" title="All 4 branches missed.">    } else if (this.next.getClass() != EmptySet.class &amp;&amp; !this.value.equals(n)) {</span>
+<span class="nc" id="L74">      this.next.contains(n);</span>
+    }
+<span class="nc" id="L76">    return false;</span>
+  }
+
+  /**
+   * Returns a new set with the target element removed if it was contained.
+   * &lt;p&gt;
+   * Returns the same set if target element not found or if set was empty.
+   *
+   * @param n element to be removed from a set
+   * @return a new set with the same elements or with target element removed
+   */
+  @Override
+  public ISet remove(Object n) {
+<span class="nc bnc" id="L89" title="All 4 branches missed.">    if (this.next.getClass() == EmptySet.class &amp;&amp; this.value.equals(n)) {</span>
+<span class="nc" id="L90">      return new EmptySet&lt;T&gt;();</span>
+<span class="nc bnc" id="L91" title="All 4 branches missed.">    } else if (this.next.getClass() != EmptySet.class &amp;&amp; !this.value.equals(n)) {</span>
+<span class="nc" id="L92">      this.next.remove(n);</span>
+    }
+<span class="nc bnc" id="L94" title="All 4 branches missed.">    else if (this.next.getClass() != EmptySet.class &amp;&amp; this.value.equals(n)) {</span>
+<span class="nc" id="L95">      this.value = null;</span>
+<span class="nc" id="L96">      return this;</span>
+    }
+<span class="nc" id="L98">    return this;</span>
+  }
+
+  /**
+   * Returns the size of the set.
+   *
+   * @return the number of elements in the set
+   */
+  @Override
+  public Integer size() {
+<span class="nc" id="L108">    Integer count = 0;</span>
+<span class="nc bnc" id="L109" title="All 2 branches missed.">    if (this.next.getClass() != EmptySet.class) {</span>
+<span class="nc" id="L110">      count++;</span>
+<span class="nc" id="L111">      this.next.size();</span>
+    }
+<span class="nc" id="L113">    return count;</span>
+  }
+
+  @Override
+  public String toString() {
+<span class="nc" id="L118">    return &quot;ConsSet{&quot; +</span>
+        &quot;value=&quot; + value +
+        &quot;, next=&quot; + next +
+        '}';
+  }
+
+  @Override
+  public boolean equals(Object o) {
+<span class="pc bpc" id="L126" title="1 of 2 branches missed.">    if (this == o) return true;</span>
+<span class="pc bpc" id="L127" title="1 of 2 branches missed.">    if (!(o instanceof ConsSet)) return false;</span>
+<span class="fc" id="L128">    ConsSet &lt;?&gt; consSet = (ConsSet &lt;?&gt;) o;</span>
+<span class="pc bpc" id="L129" title="1 of 2 branches missed.">    return value.equals(consSet.value) &amp;&amp;</span>
+<span class="pc bpc" id="L130" title="1 of 2 branches missed.">        next.equals(consSet.next);</span>
+  }
+
+  @Override
+  public int hashCode() {
+<span class="nc" id="L135">    return Objects.hash(value, next);</span>
+  }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.6.201602180812</span></div></body></html>
