@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.3.5" timestamp="2019-07-13T04:06:23.888">
+<file name="/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment5-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/PreOrderIterator.java">
+<violation beginline="35" endline="35" begincolumn="5" endcolumn="59" rule="IfStmtsMustUseBraces" ruleset="Braces" package="edu.neu.khoury.cs5004.problem3" class="PreOrderIterator" method="next" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="36" endline="36" begincolumn="5" endcolumn="57" rule="IfStmtsMustUseBraces" ruleset="Braces" package="edu.neu.khoury.cs5004.problem3" class="PreOrderIterator" method="next" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+</file>
+</pmd>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>Runner.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">CS5004 Assignment</a> &gt; <a href="index.source.html" class="el_package">edu.neu.khoury.cs5004.problem1</a> &gt; <span class="el_source">Runner.java</span></div><h1>Runner.java</h1><pre class="source lang-java linenums">package edu.neu.khoury.cs5004.problem1;
+import java.util.List;
+
+/**
+ * Represents a Runner with their name and various race times.
+ */
+public class Runner implements Comparable&lt;Runner&gt;{
+  private String name;
+  private List&lt;Double&gt; fiveKRaceTimes;
+  private List&lt;Double&gt; tenKRaceTimes;
+  private List&lt;Double&gt; halfMarathonTimes;
+  public Runner(String name, List&lt;Double&gt; fiveKRaceTimes,
+                List&lt;Double&gt; tenKRaceTimes,
+<span class="fc" id="L14">                List&lt;Double&gt; halfMarathonTimes) {</span>
+<span class="fc" id="L15">    this.name = name;</span>
+<span class="fc" id="L16">    this.fiveKRaceTimes = fiveKRaceTimes;</span>
+<span class="fc" id="L17">    this.tenKRaceTimes = tenKRaceTimes;</span>
+<span class="fc" id="L18">    this.halfMarathonTimes = halfMarathonTimes;</span>
+<span class="fc" id="L19">  }</span>
+
+  /**
+   * Get the runner's name.
+   * @return Runner's name
+   */
+  public String getName() {
+<span class="fc" id="L26">    return name;</span>
+  }
+
+  /**
+   * Get the runner's 5k race times.
+   * @return list of 5k race times
+   */
+  public List&lt;Double&gt; getFiveKRaceTimes() {
+<span class="fc" id="L34">    return fiveKRaceTimes;</span>
+  }
+
+  /**
+   * Get the runner's 10k race times.
+   * @return list of 10k race times
+   */
+  public List&lt;Double&gt; getTenKRaceTimes() {
+<span class="fc" id="L42">    return tenKRaceTimes;</span>
+  }
+
+  /**
+   * Get the runner's half marathon race times.
+   * @return list of half marathon race times
+   */
+  public List&lt;Double&gt; getHalfMarathonTimes() {
+<span class="fc" id="L50">    return halfMarathonTimes;</span>
+  }
+
+  /**
+   * Compares two Runner objects based on their average 5k race times.
+   * @param otherRunner another Runner for comparison
+   * @return negative if less than (preferred), zero if equal, positive if greater than
+   */
+  @Override
+  public int compareTo(Runner otherRunner) {
+<span class="fc" id="L60">    Double thisRunner5kTotal = this.fiveKRaceTimes.stream().mapToDouble(Double::doubleValue).sum();</span>
+<span class="fc" id="L61">    Double thisRunner5kAvg = thisRunner5kTotal/this.fiveKRaceTimes.size();</span>
+
+<span class="fc" id="L63">    Double otherRunner5kTotal = otherRunner.getFiveKRaceTimes().stream().mapToDouble(Double::doubleValue).sum();</span>
+<span class="fc" id="L64">    Double otherRunner5kAvg = otherRunner5kTotal/otherRunner.getFiveKRaceTimes().size();</span>
+
+<span class="fc bfc" id="L66" title="All 2 branches covered.">    if (thisRunner5kAvg.equals(otherRunner5kAvg)) {</span>
+<span class="fc" id="L67">      return 0;</span>
+<span class="fc bfc" id="L68" title="All 2 branches covered.">    } else if (thisRunner5kAvg &gt; otherRunner5kAvg) {</span>
+<span class="fc" id="L69">      return 1;</span>
+    } else {
+<span class="fc" id="L71">      return -1;</span>
+    }
+  }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.6.201602180812</span></div></body></html>

@@ -1,84 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e9a7e39-4de6-48db-bc57-2c1e5d8bdbfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem2/IQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem2/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/ConsSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/EmptySetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MakeupMidterm-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MakeupMidterm-willia5w/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MakeupMidterm-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Journalist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MakeupMidterm-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Journalist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MakeupMidterm-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/NewInfluencerTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MakeupMidterm-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/NewInfluencerTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/EmptySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/EmptySet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/ISet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ISet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/aSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ConsSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/neu/khoury/cs5004/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/findbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/findbugsXml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/pmd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/class-use/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/edu/neu/khoury/cs5004/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.rss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/distribution-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/distribution-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/findbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/findbugs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/findbugs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/findbugs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/integration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/issue-tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/issue-tracking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/App.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/edu.neu.khoury.cs5004/index.source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/license.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/mail-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/mail-lists.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/pmd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/pmd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/source-repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/source-repository.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/team-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/team-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/edu/neu/khoury/cs5004/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref-test/edu/neu/khoury/cs5004/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/khoury/cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/khoury/cs5004/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/xref/edu/neu/khoury/cs5004/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.khoury.cs5004.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.neu.khoury.cs5004.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.neu.khoury.cs5004.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.neu.khoury.cs5004.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/neu/khoury/cs5004/AppTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="9e9a7e39-4de6-48db-bc57-2c1e5d8bdbfa" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,23 +30,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/EmptySet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ConsSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#1597#1598#0" expanded="true" />
-                <element signature="e#1618#1619#0" expanded="true" />
-                <element signature="e#1828#1829#0" expanded="true" />
-                <element signature="e#1857#1858#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1080">
+              <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/EmptySetTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -149,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ISet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
+            <state relative-caret-position="-580">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -178,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/problem2/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-261">
-              <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+            <state relative-caret-position="112">
+              <caret line="64" column="3" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#219#220#0" expanded="true" />
@@ -204,6 +119,15 @@
                 <element signature="e#198#199#0" expanded="true" />
                 <element signature="e#231#232#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/EmptySet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -266,7 +190,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="720" />
+    <option name="width" value="1219" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -468,7 +392,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561601622287</updated>
       <workItem from="1561601625879" duration="6247000" />
-      <workItem from="1561764792740" duration="10750000" />
+      <workItem from="1561764792740" duration="11643000" />
     </task>
     <servers />
   </component>
@@ -505,12 +429,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16997000" />
+    <option name="totallyTimeSpent" value="17890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="720" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1219" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28761062" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16567545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -595,39 +520,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ConsSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#3115#3116#0" expanded="true" />
-            <element signature="e#3157#3158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/EmptySet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#1597#1598#0" expanded="true" />
-            <element signature="e#1618#1619#0" expanded="true" />
-            <element signature="e#1828#1829#0" expanded="true" />
-            <element signature="e#1857#1858#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ISet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/ConsSetTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1005">
@@ -645,27 +537,6 @@
             <element signature="e#884#885#0" expanded="true" />
             <element signature="e#940#941#0" expanded="true" />
             <element signature="e#964#965#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/EmptySetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -730,8 +601,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/problem2/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        <state relative-caret-position="112">
+          <caret line="64" column="3" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#219#220#0" expanded="true" />
@@ -739,6 +610,48 @@
             <element signature="e#539#540#0" expanded="true" />
             <element signature="e#1176#1177#0" expanded="true" />
             <element signature="e#1484#1485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ConsSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/EmptySet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/ISet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-580">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/EmptySetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9af95db2-24ee-477b-9582-02455d18a727" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/RunnersIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/InOrderIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/PostOrderIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/PreOrderIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/RunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/RunnersIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/IntegerBinarySearchTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/NodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment6-willia5w/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/DataCollectionFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/Swimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8-willia5w/src/main/java/edu/neu/khoury/cs5004/problem3/SwimmersIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8-willia5w/src/test/java/edu/neu/khoury/cs5004/problem1/DataCollectionFrequencyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7-willia5w/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7-willia5w/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/NodeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+              <folding>
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-289">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding>
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#1103#1112#0" expanded="true" />
+                <element signature="e#1384#1393#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/PreOrderIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/InOrderIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding>
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/PostOrderIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="44" column="60" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/RunnersIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#1557#1558#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/RunnerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-409">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/IntegerBinarySearchTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/RunnerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/List.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/AList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/NodeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/RunnersIteratorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/RunnersIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/InOrderIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/PostOrderIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/PreOrderIterator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CS5004 Assignment" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/../assignment6-willia5w/assignment6-willia5w.iml" />
+        <option value="$PROJECT_DIR$/../assignment6-willia5w/assignment6.ipr" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs5004" type="462c0819:PsiDirectoryNode" />
+              <item name="problem3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment5-willia5w" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.neu.khoury.cs5004.problem2" />
+      <recent name="edu.neu.khoury.cs5004.problem3" />
+      <recent name="edu.neu.khoury.cs5004.problem1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.neu.khoury.cs5004.problem3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RunnersIteratorTest.qualified">
+    <configuration name="NodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.khoury.cs5004.problem3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.khoury.cs5004.problem3" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.khoury.cs5004.problem3.NodeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnersIteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.khoury.cs5004.problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.khoury.cs5004.problem2" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.khoury.cs5004.problem2.RunnersIteratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnersIteratorTest.fiveKQualified" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.khoury.cs5004.problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.khoury.cs5004.problem2" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.khoury.cs5004.problem2.RunnersIteratorTest" />
+      <option name="METHOD_NAME" value="fiveKQualified" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnersIteratorTest.hasNext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.khoury.cs5004.problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.khoury.cs5004.problem2" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.khoury.cs5004.problem2.RunnersIteratorTest" />
+      <option name="METHOD_NAME" value="hasNext" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnersIteratorTest.qualified" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5-willia5w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.khoury.cs5004.problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.khoury.cs5004.problem2" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.khoury.cs5004.problem2.RunnersIteratorTest" />
+      <option name="METHOD_NAME" value="qualified" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunnersIteratorTest.qualified" />
+        <item itemvalue="JUnit.RunnersIteratorTest" />
+        <item itemvalue="JUnit.RunnersIteratorTest.hasNext" />
+        <item itemvalue="JUnit.RunnersIteratorTest.fiveKQualified" />
+        <item itemvalue="JUnit.NodeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9af95db2-24ee-477b-9582-02455d18a727" name="Default Changelist" comment="" />
+      <created>1562727511658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562727511658</updated>
+      <workItem from="1562727527620" duration="1172000" />
+      <workItem from="1562796399756" duration="546000" />
+      <workItem from="1562807096786" duration="34712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RunnerTest - 2019.07.13 at 01h 34m 01s.xml">
+      <configuration name="RunnerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NodeTest - 2019.07.13 at 03h 04m 38s.xml">
+      <configuration name="NodeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnersIteratorTest_fiveKQualified - 2019.07.13 at 03h 33m 18s.xml">
+      <configuration name="RunnersIteratorTest.fiveKQualified" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnersIteratorTest_qualified - 2019.07.13 at 03h 44m 06s.xml">
+      <configuration name="RunnersIteratorTest.qualified" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnersIteratorTest_qualified - 2019.07.13 at 03h 44m 46s.xml">
+      <configuration name="RunnersIteratorTest.qualified" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnersIteratorTest_qualified - 2019.07.13 at 03h 45m 05s.xml">
+      <configuration name="RunnersIteratorTest.qualified" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnersIteratorTest_qualified - 2019.07.13 at 03h 45m 19s.xml">
+      <configuration name="RunnersIteratorTest.qualified" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnersIteratorTest_qualified - 2019.07.13 at 03h 51m 15s.xml">
+      <configuration name="RunnersIteratorTest.qualified" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnersIteratorTest_qualified - 2019.07.13 at 03h 52m 18s.xml">
+      <configuration name="RunnersIteratorTest.qualified" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnersIteratorTest_qualified - 2019.07.13 at 03h 56m 05s.xml">
+      <configuration name="RunnersIteratorTest.qualified" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36430000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23962805" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29044586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.23962805" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18731563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.29044586" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="CheckStyle" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.06723891" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assignment5.ipr">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5.iws">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/AList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#1465#1466#0" expanded="true" />
+            <element signature="e#1495#1496#0" expanded="true" />
+            <element signature="e#3753#3754#0" expanded="true" />
+            <element signature="e#3783#3784#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+            <element signature="e#5833#5834#0" expanded="true" />
+            <element signature="e#5855#5856#0" expanded="true" />
+            <element signature="e#7288#7289#0" expanded="true" />
+            <element signature="e#7310#7311#0" expanded="true" />
+            <element signature="e#8739#8740#0" expanded="true" />
+            <element signature="e#8761#8762#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1748#1749#0" expanded="true" />
+            <element signature="e#1769#1770#0" expanded="true" />
+            <element signature="e#1961#1962#0" expanded="true" />
+            <element signature="e#1983#1984#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/IntegerBinarySearchTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem3/NodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem2/RunnersIteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/neu/khoury/cs5004/problem1/RunnerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-409">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/RunnersIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#1557#1558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/InOrderIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/IntegerBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#1103#1112#0" expanded="true" />
+            <element signature="e#1384#1393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/PostOrderIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="44" column="60" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem3/PreOrderIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
