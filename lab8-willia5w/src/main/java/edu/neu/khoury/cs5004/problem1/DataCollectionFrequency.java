@@ -11,7 +11,6 @@ package edu.neu.khoury.cs5004.problem1;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Map.Entry;
 import java.util.*;
 
 class DataCollectionFrequency {
@@ -45,44 +44,6 @@ class DataCollectionFrequency {
     list.add(4);
     list.add(4);
     list.add(4);
-    countFrequencies(list);
+    countFrequencies(list);  // Should print frequencies as listed in lab8 directions
   }
 }
-
-/*
----------------------------------HASH SET-----------------------------------------
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.stream.Collectors;
-
-
-public class DataCollectionFrequency {
-  public static void countFrequencies(ArrayList<Integer> list)
-  {
-
-    // Hash set is created and elements of
-    // ArrayList are inserted into it
-    Set<Integer> st = new HashSet<Integer>(list);
-    for (Integer s : st)
-      System.out.println(s + ": " + Collections.frequency(list, s));
-  }
-
-  public static void main(Integer[] args)
-  {
-    ArrayList<Integer> list = new ArrayList<Integer>();
-    list.add(1);
-    list.add(1);
-    list.add(1);
-    list.add(2);
-    list.add(2);
-    list.add(3);
-    list.add(3);
-    list.add(4);
-    list.add(4);
-    list.add(4);
-    countFrequencies(list);
-  }
-}
-*/
-

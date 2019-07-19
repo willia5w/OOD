@@ -1,17 +1,45 @@
 package edu.neu.khoury.cs5004.problem3;
 
-// Iterates over a list of swimmer
-// Returns swimmers who have at least 5 butterfly swim times
-// & have achieved at least one 50 m Olympic freestyle qualifying time (26.17s)
-import java.util.ArrayList;
-import java.util.Iterator;
+import java.util.*;
 
-import Swimmer;
-public class SwimmersIterator extends Iterator {
+import edu.neu.khoury.cs5004.problem2.Swimmer;
 
-  List<Swimmer> swimmers = new ArrayList<>();
+/**
+ * Iterator for ArrayList of Swimmers.
+ */
+public class SwimmersIterator implements Iterator {
+  private Stack <Swimmer> swimmerStack;
 
-  private getQualifiedSwimmers(ArrayList list) ;
+  /**
+   * Iterates through swimmers in the list, qualifying throughout.
+   * @param swimmerList A list of swimmers
+   */
+  public SwimmersIterator(ArrayList<Swimmer> swimmerList) {
+    for (int i = 0; i < swimmerList.size(); i++) {
+      Swimmer currentSwimmer = swimmerList.get(i);
+      qualified(currentSwimmer);
+    }
+  }
+
+  /**
+   * Get the current stack of Swimmers.
+   * @return  current swimmer stack
+   */
+  public Stack <Swimmer> getSwimmerStack() {
+    return swimmerStack;
+  }
+
+  /**
+   * Pushes swimmers to the stack if they are sufficiently experienced with butterfly races.
+   * Must also have freestyle time under 26.17 minutes.
+   * @param swimmer A swimmer from the list of swimmers
+   */
+  public void qualified(Swimmer swimmer) {
+    int fastestFreestyle = swimmer.getFreestyle50mTimes().indexOf(Collections.min(swimmer.getFreestyle50mTimes()));
+    if (swimmer.getButterfly50mTimes().size() > 4 && fastestFreestyle < 26.17) {
+      swimmerStack.push(swimmer);
+    }
+  }
 
   /**
    * Returns {@code true} if the iteration has more elements.
@@ -22,7 +50,7 @@ public class SwimmersIterator extends Iterator {
    */
   @Override
   public boolean hasNext() {
-    return false;
+    return !swimmerStack.isEmpty();
   }
 
   /**
@@ -32,7 +60,13 @@ public class SwimmersIterator extends Iterator {
    * @throws NoSuchElementException if the iteration has no more elements
    */
   @Override
-  public Object next() {
-    return null;
+  public Object next() throws NoSuchElementException {
+    if (!hasNext()) {
+      throw new NoSuchElementException("No more qualified swimmers");
+    }
+
+    Swimmer nextSwimmer = swimmerStack.pop();
+    qualified(nextSwimmer);
+    return nextSwimmer.getName();
   }
 }
