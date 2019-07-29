@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="9" failures="3" name="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" time="0.033" errors="0" skipped="0">
+<testsuite tests="9" failures="3" name="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" time="0.026" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib"/>
@@ -63,9 +63,9 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="equals1" time="0.027"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="getDriverBirthDate" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="getVehicleInformation" time="0.001">
+  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="equals1" time="0.016"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="getDriverBirthDate" time="0.002"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="getVehicleInformation" time="0.002">
     <failure type="java.lang.AssertionError">java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:86)
 	at org.junit.Assert.assertTrue(Assert.java:41)
@@ -103,9 +103,9 @@
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
 </failure>
   </testcase>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="getDriverLicenseInfo" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="hashCode1" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="getDriverName" time="0.001"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="getDriverLicenseInfo" time="0.001"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="hashCode1" time="0.001"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="getDriverName" time="0"/>
   <testcase classname="edu.neu.khoury.cs5004.problem2.DriverApplicationTest" name="toString1" time="0.003">
     <failure message="expected:&lt;....problem2.Violation@[51521cc1, edu.neu.khoury.cs5004.problem2.Violation@1b4fb997]}}, vehicleInsuranceInformation=VehicleInsuranceInformation{officialOwner=Name{firstName=&apos;Bilbo&apos;, lastName=&apos;Baggins&apos;}, otherDrivers=[Name{firstName=&apos;Frodo&apos;, lastName=&apos;Baggins&apos;}, Name{firstName=&apos;Samwise&apos;, lastName=&apos;Gangee&apos;}]}, driverHistory=DriverHistory{trafficViolations=[edu.neu.khoury.cs5004.problem2.Violation@deb6432, edu.neu.khoury.cs5004.problem2.Violation@28ba21f3]]}}&gt; but was:&lt;....problem2.Violation@[3541cb24, edu.neu.khoury.cs5004.problem2.Violation@2177849e]}}, vehicleInsuranceInformation=VehicleInsuranceInformation{officialOwner=Name{firstName=&apos;Bilbo&apos;, lastName=&apos;Baggins&apos;}, otherDrivers=[Name{firstName=&apos;Frodo&apos;, lastName=&apos;Baggins&apos;}, Name{firstName=&apos;Samwise&apos;, lastName=&apos;Gangee&apos;}]}, driverHistory=DriverHistory{trafficViolations=[edu.neu.khoury.cs5004.problem2.Violation@40cb8df7, edu.neu.khoury.cs5004.problem2.Violation@13b13b5d]]}}&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;....problem2.Violation@[51521cc1, edu.neu.khoury.cs5004.problem2.Violation@1b4fb997]}}, vehicleInsuranceInformation=VehicleInsuranceInformation{officialOwner=Name{firstName=&apos;Bilbo&apos;, lastName=&apos;Baggins&apos;}, otherDrivers=[Name{firstName=&apos;Frodo&apos;, lastName=&apos;Baggins&apos;}, Name{firstName=&apos;Samwise&apos;, lastName=&apos;Gangee&apos;}]}, driverHistory=DriverHistory{trafficViolations=[edu.neu.khoury.cs5004.problem2.Violation@deb6432, edu.neu.khoury.cs5004.problem2.Violation@28ba21f3]]}}&gt; but was:&lt;....problem2.Violation@[3541cb24, edu.neu.khoury.cs5004.problem2.Violation@2177849e]}}, vehicleInsuranceInformation=VehicleInsuranceInformation{officialOwner=Name{firstName=&apos;Bilbo&apos;, lastName=&apos;Baggins&apos;}, otherDrivers=[Name{firstName=&apos;Frodo&apos;, lastName=&apos;Baggins&apos;}, Name{firstName=&apos;Samwise&apos;, lastName=&apos;Gangee&apos;}]}, driverHistory=DriverHistory{trafficViolations=[edu.neu.khoury.cs5004.problem2.Violation@40cb8df7, edu.neu.khoury.cs5004.problem2.Violation@13b13b5d]]}}&gt;
 	at org.junit.Assert.assertEquals(Assert.java:115)

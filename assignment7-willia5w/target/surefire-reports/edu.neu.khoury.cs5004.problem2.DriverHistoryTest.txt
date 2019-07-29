@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: edu.neu.khoury.cs5004.problem2.DriverHistoryTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.081 sec <<< FAILURE!
-getTrafficViolations(edu.neu.khoury.cs5004.problem2.DriverHistoryTest)  Time elapsed: 0.02 sec  <<< FAILURE!
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.047 sec <<< FAILURE!
+getTrafficViolations(edu.neu.khoury.cs5004.problem2.DriverHistoryTest)  Time elapsed: 0.007 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<[edu.neu.khoury.cs5004.problem2.Violation@d21a74c, edu.neu.khoury.cs5004.problem2.Violation@6e509ffa]> but was:<[edu.neu.khoury.cs5004.problem2.Violation@2898ac89, edu.neu.khoury.cs5004.problem2.Violation@683dbc2c]>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)
@@ -40,7 +40,7 @@ java.lang.AssertionError: expected:<[edu.neu.khoury.cs5004.problem2.Violation@d2
 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
 
-toString1(edu.neu.khoury.cs5004.problem2.DriverHistoryTest)  Time elapsed: 0.008 sec  <<< FAILURE!
+toString1(edu.neu.khoury.cs5004.problem2.DriverHistoryTest)  Time elapsed: 0.004 sec  <<< FAILURE!
 org.junit.ComparisonFailure: expected:<....problem2.Violation@[51521cc1, edu.neu.khoury.cs5004.problem2.Violation@1b4fb997]]}> but was:<....problem2.Violation@[7748410a, edu.neu.khoury.cs5004.problem2.Violation@740773a3]]}>
 	at org.junit.Assert.assertEquals(Assert.java:115)
 	at org.junit.Assert.assertEquals(Assert.java:144)

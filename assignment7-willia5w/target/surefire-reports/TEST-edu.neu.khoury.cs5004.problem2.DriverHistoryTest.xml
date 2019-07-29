@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="2" name="edu.neu.khoury.cs5004.problem2.DriverHistoryTest" time="0.06" errors="0" skipped="0">
+<testsuite tests="4" failures="2" name="edu.neu.khoury.cs5004.problem2.DriverHistoryTest" time="0.022" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib"/>
@@ -63,8 +63,8 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverHistoryTest" name="equals1" time="0.032"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverHistoryTest" name="getTrafficViolations" time="0.02">
+  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverHistoryTest" name="equals1" time="0.011"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverHistoryTest" name="getTrafficViolations" time="0.007">
     <failure message="expected:&lt;[edu.neu.khoury.cs5004.problem2.Violation@d21a74c, edu.neu.khoury.cs5004.problem2.Violation@6e509ffa]&gt; but was:&lt;[edu.neu.khoury.cs5004.problem2.Violation@2898ac89, edu.neu.khoury.cs5004.problem2.Violation@683dbc2c]&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;[edu.neu.khoury.cs5004.problem2.Violation@d21a74c, edu.neu.khoury.cs5004.problem2.Violation@6e509ffa]&gt; but was:&lt;[edu.neu.khoury.cs5004.problem2.Violation@2898ac89, edu.neu.khoury.cs5004.problem2.Violation@683dbc2c]&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)
@@ -104,7 +104,7 @@
 </failure>
   </testcase>
   <testcase classname="edu.neu.khoury.cs5004.problem2.DriverHistoryTest" name="hashCode1" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverHistoryTest" name="toString1" time="0.008">
+  <testcase classname="edu.neu.khoury.cs5004.problem2.DriverHistoryTest" name="toString1" time="0.004">
     <failure message="expected:&lt;....problem2.Violation@[51521cc1, edu.neu.khoury.cs5004.problem2.Violation@1b4fb997]]}&gt; but was:&lt;....problem2.Violation@[7748410a, edu.neu.khoury.cs5004.problem2.Violation@740773a3]]}&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;....problem2.Violation@[51521cc1, edu.neu.khoury.cs5004.problem2.Violation@1b4fb997]]}&gt; but was:&lt;....problem2.Violation@[7748410a, edu.neu.khoury.cs5004.problem2.Violation@740773a3]]}&gt;
 	at org.junit.Assert.assertEquals(Assert.java:115)
 	at org.junit.Assert.assertEquals(Assert.java:144)

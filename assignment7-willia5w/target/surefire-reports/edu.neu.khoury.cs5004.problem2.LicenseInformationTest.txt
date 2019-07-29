@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: edu.neu.khoury.cs5004.problem2.LicenseInformationTest
 -------------------------------------------------------------------------------
-Tests run: 11, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.011 sec <<< FAILURE!
-getDriverState(edu.neu.khoury.cs5004.problem2.LicenseInformationTest)  Time elapsed: 0 sec  <<< FAILURE!
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.037 sec <<< FAILURE!
+getDriverState(edu.neu.khoury.cs5004.problem2.LicenseInformationTest)  Time elapsed: 0.002 sec  <<< FAILURE!
 org.junit.ComparisonFailure: expected:<[Middle Earth]> but was:<[New Zealand]>
 	at org.junit.Assert.assertEquals(Assert.java:115)
 	at org.junit.Assert.assertEquals(Assert.java:144)

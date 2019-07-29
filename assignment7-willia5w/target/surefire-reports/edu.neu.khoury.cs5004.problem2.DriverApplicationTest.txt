@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: edu.neu.khoury.cs5004.problem2.DriverApplicationTest
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.044 sec <<< FAILURE!
-getVehicleInformation(edu.neu.khoury.cs5004.problem2.DriverApplicationTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+Tests run: 9, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.04 sec <<< FAILURE!
+getVehicleInformation(edu.neu.khoury.cs5004.problem2.DriverApplicationTest)  Time elapsed: 0.002 sec  <<< FAILURE!
 java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:86)
 	at org.junit.Assert.assertTrue(Assert.java:41)

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="3" name="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" time="0.004" errors="0" skipped="0">
+<testsuite tests="8" failures="3" name="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" time="0.011" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib"/>
@@ -64,10 +64,10 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="getModelYear" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="equals1" time="0.001"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="getVehicleMake" time="0"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="equals1" time="0.002"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="getVehicleMake" time="0.004"/>
   <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="getVehicleModel" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="getVehicleHistory" time="0.002">
+  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="getVehicleHistory" time="0.001">
     <failure message="expected:&lt;VehicleHistory{vehicleViolations=[edu.neu.khoury.cs5004.problem2.Violation@19d481b, edu.neu.khoury.cs5004.problem2.Violation@1f97cf0d]}&gt; but was:&lt;VehicleHistory{vehicleViolations=[edu.neu.khoury.cs5004.problem2.Violation@140c9f39, edu.neu.khoury.cs5004.problem2.Violation@4d910fd6]}&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;VehicleHistory{vehicleViolations=[edu.neu.khoury.cs5004.problem2.Violation@19d481b, edu.neu.khoury.cs5004.problem2.Violation@1f97cf0d]}&gt; but was:&lt;VehicleHistory{vehicleViolations=[edu.neu.khoury.cs5004.problem2.Violation@140c9f39, edu.neu.khoury.cs5004.problem2.Violation@4d910fd6]}&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)
@@ -106,7 +106,7 @@
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
 </failure>
   </testcase>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="hashCode1" time="0">
+  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="hashCode1" time="0.001">
     <failure message="expected:&lt;8.2320122E8&gt; but was:&lt;1.05302995E9&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;8.2320122E8&gt; but was:&lt;1.05302995E9&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)
@@ -145,7 +145,7 @@
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
 </failure>
   </testcase>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="toString1" time="0.001">
+  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInformationTest" name="toString1" time="0.003">
     <failure message="expected:&lt;....problem2.Violation@[51521cc1, edu.neu.khoury.cs5004.problem2.Violation@1b4fb997]]}}&gt; but was:&lt;....problem2.Violation@[2e222612, edu.neu.khoury.cs5004.problem2.Violation@61386958]]}}&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;....problem2.Violation@[51521cc1, edu.neu.khoury.cs5004.problem2.Violation@1b4fb997]]}}&gt; but was:&lt;....problem2.Violation@[2e222612, edu.neu.khoury.cs5004.problem2.Violation@61386958]]}}&gt;
 	at org.junit.Assert.assertEquals(Assert.java:115)
 	at org.junit.Assert.assertEquals(Assert.java:144)

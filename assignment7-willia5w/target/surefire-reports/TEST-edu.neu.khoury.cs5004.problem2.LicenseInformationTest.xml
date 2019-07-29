@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="11" failures="1" name="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" time="0.003" errors="0" skipped="0">
+<testsuite tests="11" failures="1" name="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" time="0.005" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib"/>
@@ -63,14 +63,14 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="equals1" time="0.001"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="equals1" time="0"/>
   <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getDriverBirthDate" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getIssuanceDate" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getExpirationDate" time="0"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getIssuanceDate" time="0.001"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getExpirationDate" time="0.002"/>
   <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getDriverAddress" time="0"/>
   <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="hashCode1" time="0"/>
   <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getDriverName" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getDriverState" time="0">
+  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getDriverState" time="0.002">
     <failure message="expected:&lt;[Middle Earth]&gt; but was:&lt;[New Zealand]&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;[Middle Earth]&gt; but was:&lt;[New Zealand]&gt;
 	at org.junit.Assert.assertEquals(Assert.java:115)
 	at org.junit.Assert.assertEquals(Assert.java:144)
@@ -108,6 +108,6 @@
 </failure>
   </testcase>
   <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="toString1" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getLicenseNumber" time="0.001"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getDriverCountry" time="0.001"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getLicenseNumber" time="0"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.LicenseInformationTest" name="getDriverCountry" time="0"/>
 </testsuite>

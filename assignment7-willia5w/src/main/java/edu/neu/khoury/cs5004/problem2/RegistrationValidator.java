@@ -1,11 +1,12 @@
 package edu.neu.khoury.cs5004.problem2;
 
+import edu.neu.khoury.cs5004.problem2.ViolationType.*;
+
+
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.Objects;
-
-import static edu.neu.khoury.cs5004.problem2.MovingViolationType.*;
 
 /**
  * Given a DriverApplication, the RegistrationValidator checks all components for validity.
@@ -107,7 +108,7 @@ public class RegistrationValidator implements IRegistrationValidator {
     LocalDateTime expirationDate = driverApplication.getDriverLicenseInfo().getExpirationDate();
 
     // Calculate time passed since expiration
-    long timeSinceExpiration = ChronoUnit.DAYS.between(applicationDate, issuanceDate);
+    long timeSinceExpiration = ChronoUnit.DAYS.between(applicationDate, expirationDate);
 
     if (
         applicantName.equals(applicantLicenseName) &&
@@ -157,10 +158,10 @@ public class RegistrationValidator implements IRegistrationValidator {
 
     for (int i = 0; i < applicantViolations.size(); i++) {
       Violation violation = applicantViolations.get(i);
-      if (violation.getViolationType()
-          violation.getViolationType().equals(Speeding) ||
-          violation.getViolationType().equals(DUI) ||
-          violation.getViolationType().equals(DrivingWithoutLicenceRegistration)) {
+      if (violation.getViolationType() instanceof RecklessDriving ||
+          violation.getViolationType() instanceof Speeding ||
+          violation.getViolationType() instanceof DUI ||
+          violation.getViolationType() instanceof DrivingWithoutValidLicenseInsurance) {
         return false;
       }
     }
@@ -181,8 +182,9 @@ public class RegistrationValidator implements IRegistrationValidator {
     for (int i = 0; i < vehicleViolations.size(); i++) {
       Violation violation = vehicleViolations.get(i);
 
-      for (MovingViolationType type : MovingViolationType.values()) {
-        if (violation.getViolationType().equals(type)) {
+
+        if (violation.getViolationType() instanceof MovingViolationType ||
+            violation.getViolationType() instanceof CrashTypeViolationType) {
 
           // Get current date
           LocalDateTime applicationDate = LocalDateTime.now();
@@ -198,29 +200,9 @@ public class RegistrationValidator implements IRegistrationValidator {
           }
         }
       }
-
-      // Iterate through Moving Violations
-      for (CrashType type : CrashType.values()) {
-        if (violation.getViolationType().equals(type)) {
-          if (violation.getViolationType().equals(type)) {
-            // Get current date
-            LocalDateTime applicationDate = LocalDateTime.now();
-
-            // Get violation date
-            LocalDateTime violationDate = violation.getViolationDate();
-
-            // Calculate months passed since violation
-            long violationMonthsElapsed = ChronoUnit.MONTHS.between(applicationDate, violationDate);
-
-            if (violationMonthsElapsed <= 6) {
-              return false;
-            }
-          }
-        }
-      }
-    }
     return true;
   }
+
 
   /**
    * Sequentially executes each check of a driver's application.

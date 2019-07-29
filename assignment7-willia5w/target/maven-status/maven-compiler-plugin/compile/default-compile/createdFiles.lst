@@ -12,7 +12,6 @@ edu/neu/khoury/cs5004/problem1/IMediaLibrary.class
 edu/neu/khoury/cs5004/problem2/ViolationType/FailureToRespectSign.class
 edu/neu/khoury/cs5004/problem2/LicenseInformation.class
 edu/neu/khoury/cs5004/problem1/DuplicateMediaException.class
-edu/neu/khoury/cs5004/problem2/CrashType.class
 edu/neu/khoury/cs5004/problem2/Name.class
 edu/neu/khoury/cs5004/problem2/ViolationType/NonMovingViolationType.class
 edu/neu/khoury/cs5004/problem2/ViolationType/DUI.class
@@ -22,11 +21,9 @@ edu/neu/khoury/cs5004/problem2/ViolationType/ProblemsWithVehicle.class
 edu/neu/khoury/cs5004/problem2/ViolationType/DistractedDriving.class
 edu/neu/khoury/cs5004/problem2/ViolationType/CrashWithInjury.class
 edu/neu/khoury/cs5004/problem2/ViolationType/MovingViolationType.class
-edu/neu/khoury/cs5004/problem2/NonMovingViolationType.class
 edu/neu/khoury/cs5004/problem2/ViolationType/FenderBender.class
 edu/neu/khoury/cs5004/problem2/ViolationType/Speeding.class
 edu/neu/khoury/cs5004/problem2/ViolationType/ViolationType.class
-edu/neu/khoury/cs5004/problem2/MovingViolationType.class
 edu/neu/khoury/cs5004/problem2/VehicleInformation.class
 edu/neu/khoury/cs5004/problem2/IRegistrationValidator.class
 edu/neu/khoury/cs5004/problem2/VehicleHistory.class

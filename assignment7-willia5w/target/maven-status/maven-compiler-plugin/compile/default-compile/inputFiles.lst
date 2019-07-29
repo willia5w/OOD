@@ -1,9 +1,7 @@
-/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/CrashType.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/Name.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/ViolationType/FenderBender.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/ViolationType/PaperworkIssue.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/ViolationType/ParkingViolation.java
-/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/NonMovingViolationType.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/MediaDoesNotExistException.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/RegistrationValidator.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/IRegistrationValidator.java
@@ -24,7 +22,6 @@
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/ViolationType/DUI.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/ViolationType/FailureToRespectSign.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/ViolationType/MovingViolationType.java
-/Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/MovingViolationType.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/VehicleHistory.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem1/Media.java
 /Users/danielwilliams/Documents/CS5004/Student_repo_Daniel_Williams/assignment7-willia5w/src/main/java/edu/neu/khoury/cs5004/problem2/History.java

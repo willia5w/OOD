@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="1" name="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" time="0.025" errors="0" skipped="0">
+<testsuite tests="5" failures="1" name="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" time="0.026" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib"/>
@@ -63,9 +63,9 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" name="equals1" time="0"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" name="equals1" time="0.004"/>
   <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" name="getOtherDrivers" time="0"/>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" name="hashCode1" time="0.024">
+  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" name="hashCode1" time="0.022">
     <failure message="expected:&lt;8.97867868E8&gt; but was:&lt;-1.493936141E9&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;8.97867868E8&gt; but was:&lt;-1.493936141E9&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)
@@ -104,6 +104,6 @@
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
 </failure>
   </testcase>
-  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" name="toString1" time="0.001"/>
+  <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" name="toString1" time="0"/>
   <testcase classname="edu.neu.khoury.cs5004.problem2.VehicleInsuranceInformationTest" name="getOfficialOwner" time="0"/>
 </testsuite>
