@@ -2,248 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef4a6c9-e993-4489-861d-04164f4de66d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Beer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Grocery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Household.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/IInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/IStockItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/PaperTowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Salmon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/Shampoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem1/StockItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/IOrderFulfillmentAndProcessing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/Reciept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/problem2/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment6-willia5w/src/test/java/edu/neu/ccs/cs5004/problem2/NameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/assignment6.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/assignment6.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/assignment6.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/assignment6.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/src/main/java/edu/neu/ccs/cs5004/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/checkstyle-cachefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/checkstyle-result.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/classes/edu/neu/ccs/cs5004/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/findbugsXml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/javadoc-bundle-options/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/pmd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/edu/neu/ccs/cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/edu/neu/ccs/cs5004/class-use/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/edu/neu/ccs/cs5004/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/edu/neu/ccs/cs5004/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/edu/neu/ccs/cs5004/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/edu/neu/ccs/cs5004/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/checkstyle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/checkstyle.rss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/dependencies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/dependency-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/distribution-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/distribution-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/findbugs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/findbugs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/integration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/issue-tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/issue-tracking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/branchfc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/branchnc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/branchpc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/bundle.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/class.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/down.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/greenbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/group.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/method.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/package.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/redbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/report.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/session.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/sort.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/source.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.resources/up.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/.sessions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/edu.neu.ccs.cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/edu.neu.ccs.cs5004/App.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/edu.neu.ccs.cs5004/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/edu.neu.ccs.cs5004/index.source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/jacoco.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/jacoco/jacoco.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/license.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/mail-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/mail-lists.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/plugin-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/plugins.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/pmd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/pmd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/project-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/project-reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/project-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/project-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/source-repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/source-repository.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/team-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/team-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/xref/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/xref/edu/neu/ccs/cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/xref/edu/neu/ccs/cs5004/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/xref/edu/neu/ccs/cs5004/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/xref/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/xref/overview-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/xref/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/site/xref/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/surefire-reports/TEST-edu.neu.ccs.cs5004.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/surefire-reports/TEST-edu.neu.ccs.cs5004.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment6-willia5w/target/surefire-reports/edu.neu.ccs.cs5004.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment6-willia5w/target/surefire-reports/edu.neu.ccs.cs5004.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/assignment9-willia5w.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/main/java/edu/neu/khoury/cs5004/ArgumentScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/main/java/edu/neu/khoury/cs5004/DataProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/main/java/edu/neu/khoury/cs5004/DocumentPopulator3000.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/main/java/edu/neu/khoury/cs5004/IArgumentScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/main/java/edu/neu/khoury/cs5004/IDataProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/main/java/edu/neu/khoury/cs5004/IParse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/main/java/edu/neu/khoury/cs5004/IWrite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/main/java/edu/neu/khoury/cs5004/Parser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/main/java/edu/neu/khoury/cs5004/Writer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/src/test/java/edu/neu/khoury/cs5004/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/checkstyle-cachefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/checkstyle-checker.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/checkstyle-result.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/classes/edu/neu/khoury/cs5004/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/findbugsXml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/jacoco.exec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/javadoc-bundle-options/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/pmd.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/class-use/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/edu/neu/khoury/cs5004/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/checkstyle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/checkstyle.rss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/css/maven-base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/css/maven-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/dependencies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/dependency-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/distribution-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/findbugs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/findbugs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/external.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/newwindow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/images/rss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/integration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/issue-tracking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/branchfc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/branchnc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/branchpc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/bundle.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/class.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/down.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/greenbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/group.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/method.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/package.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/redbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/report.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/session.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/sort.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/source.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.resources/up.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/.sessions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/edu.neu.khoury.cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/edu.neu.khoury.cs5004/App.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/edu.neu.khoury.cs5004/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/edu.neu.khoury.cs5004/index.source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/jacoco.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/jacoco/jacoco.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/license.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/mail-lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/plugin-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/plugins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/pmd.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/project-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/project-reports.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/project-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/source-repository.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/team-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref-test/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref-test/edu/neu/khoury/cs5004/AppTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref-test/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref-test/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref-test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref-test/overview-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref-test/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref-test/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref/edu/neu/khoury/cs5004/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref/edu/neu/khoury/cs5004/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref/edu/neu/khoury/cs5004/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref/overview-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/site/xref/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/surefire-reports/TEST-edu.neu.khoury.cs5004.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/surefire-reports/edu.neu.khoury.cs5004.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment9-willia5w/target/test-classes/edu/neu/khoury/cs5004/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab9.iws" beforeDir="false" afterPath="$PROJECT_DIR$/lab9.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TrendingTopics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TrendingTopics.java" afterDir="false" />
     </list>
@@ -260,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TrendingTopics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -276,16 +36,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeData.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="117" />
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="117" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            <state relative-caret-position="513">
+              <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -313,8 +73,8 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/HomebakeProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TopicCounter.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TrendingTopics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeProcessor.java" />
       </list>
     </option>
   </component>
@@ -341,10 +101,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="213" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1227" />
+    <option name="width" value="1425" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -355,8 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -412,6 +169,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,18 +210,19 @@
       <option name="presentableId" value="Default" />
       <updated>1564019373395</updated>
       <workItem from="1564019374878" duration="4262000" />
-      <workItem from="1564537571286" duration="5271000" />
+      <workItem from="1564537571286" duration="5832000" />
+      <workItem from="1564785866960" duration="774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9533000" />
+    <option name="totallyTimeSpent" value="10868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="213" y="23" width="1227" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34177214" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29470673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -505,27 +265,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/InvalidArgumentExeception.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeData.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TrendingTopics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem2/TrendingTopics.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/khoury/cs5004/problem1/HomebakeProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

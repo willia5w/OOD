@@ -15,15 +15,17 @@ public class HomebakeProcessor {
 
   public static void main(String[] args) throws InvalidArgumentException {
 
-    // Validate args
-    // convert args to ArrayList<String>
-    if (args.length > 5) {
-      throw new InvalidArgumentException("Invalid combination of arguments");
-    } else if (args.contains("install" && "uninstall" && "update")) {  // Cannot contain more than one
+
+    List<String> arguments = Arrays.asList(args);
+
+    if (arguments.size() != 7) {
+      throw new InvalidArgumentException(args);
+    } else if (arguments.contains("--email") && arguments.contains("--letter")) {  // Cannot contain more than one
       throw new InvalidArgumentException("Invalid combination of arguments");
     }
 
     List <String> arguments = new ArrayList <>(Arrays.asList(args));
+
     while (arguments.size() >= 1) {
       String currentArg = arguments.remove(0);
       switch (currentArg) {

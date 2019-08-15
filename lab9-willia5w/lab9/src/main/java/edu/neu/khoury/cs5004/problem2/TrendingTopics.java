@@ -17,7 +17,6 @@ public class TrendingTopics {
       Arrays.asList("Seattle", "wildfires", "DEFCON26", "NEU", "NEU", "Seattle", "Seattle", "NEU", "DEFCON26",
           "wildfires" );
 
-
   /**
    * Prints count of each unique topic in the list of topics
    * @param topics, an input List of Strings
