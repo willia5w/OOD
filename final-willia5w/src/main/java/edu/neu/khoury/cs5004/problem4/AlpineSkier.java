@@ -62,24 +62,23 @@ public class AlpineSkier implements Comparable<AlpineSkier> {
 
   @Override
   public int compareTo(AlpineSkier otherSkier) {
-    Double thisRunner5kTotal = this.fiveKRaceTimes.stream().mapToDouble(Double::doubleValue).sum();
-    Double thisRunner5kAvg = thisRunner5kTotal/this.fiveKRaceTimes.size();
+    Integer thisSkierNumRaces = 0;
+    thisSkierNumRaces += getSlalomTime().size();
+    thisSkierNumRaces += getGiantSlalomTime().size();
+    thisSkierNumRaces += getSuperGiantSlalomTime().size();
 
-    Double otherRunner5kTotal = otherRunner.getFiveKRaceTimes().stream().mapToDouble(Double::doubleValue).sum();
-    Double otherRunner5kAvg = otherRunner5kTotal/otherRunner.getFiveKRaceTimes().size();
+    Integer otherSkierNumRaces = 0;
+    thisSkierNumRaces += otherSkier.getSlalomTime().size();
+    thisSkierNumRaces += otherSkier.getGiantSlalomTime().size();
+    thisSkierNumRaces += otherSkier.getSuperGiantSlalomTime().size();
 
-    if (thisRunner5kAvg.equals(otherRunner5kAvg)) {
+
+    if (thisSkierNumRaces.equals(otherSkierNumRaces)) {
       return 0;
-    } else if (thisRunner5kAvg > otherRunner5kAvg) {
+    } else if (thisSkierNumRaces > otherSkierNumRaces) {
       return 1;
     } else {
       return -1;
     }
-
-
-
-
-
-    return 0;
   }
 }

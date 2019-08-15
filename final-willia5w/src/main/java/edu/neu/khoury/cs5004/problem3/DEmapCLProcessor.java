@@ -8,7 +8,7 @@ import java.util.List;
 
 public class DEmapCLProcessor {
 
-  public static void main(String[] args) throws InvalidArgument {
+  public static void main(String[] args) throws IllegalArgumentException {
 
     if (args.length < 7) {
 
@@ -25,7 +25,7 @@ public class DEmapCLProcessor {
         }
 
         if (containsEmail == false) {
-          throw new InvalidArgument("Error: Email not provided.");
+          throw new IllegalArgumentException("Error: Email not provided.");
         }
         String protocolTypeFlag = "UDP";
 
@@ -46,7 +46,7 @@ public class DEmapCLProcessor {
         }
         return new DEMapData(ipAddress, protocolTypeFlag, scanTypeFlag, port, outputFlag);
       } else{
-        throw new InvalidArgument("Too many args.");
+        throw new IllegalArgumentException("Too many args.");
       }
     }
   }
