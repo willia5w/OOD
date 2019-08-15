@@ -18,7 +18,9 @@ public class SkiersIterator implements Iterator {
 
   public void qualified(AlpineSkier skier) {
     int numSlalomRaces = skier.getSlalomTime().size();
-    if (numSlalomRaces > 5) {
+    int numDownhillRaces = skier.getDownhillTime().size();
+    int numGiantSlalomRaces = skier.getSuperGiantSlalomTime().size();
+    if (numSlalomRaces > 5 && numDownhillRaces > 5 && numGiantSlalomRaces > 5) {
       skierStack.push(skier);
     }
   }
